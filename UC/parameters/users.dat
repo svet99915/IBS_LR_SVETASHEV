@@ -1,0 +1,11 @@
+Login,password,depart,arrive,seatPref,seatType,address1,address2,creditCard,expDate,firstName,lastName,pass1
+jojo,bean,Denver,London,Aisle,First,address1,address2,18192234,1012,,bean,jojo bean
+jojo,bean,Frankfurt,Los Angeles,Window,Business,address1,address2,18192234,1012,,,
+jojo,bean,London,Paris,None,Coach,address1,address2,18192234,1012,,,
+jojo,bean,Los Angeles,Portland,Aisle,First,address1,address2,18192234,1012,,,
+jojo,bean,Paris,San Francisco,Window,Business,address1,address2,18192234,1012,,,
+jojo,bean,Portland,Seattle,None,First,address1,address2,18192234,1012,,,
+jojo,bean,San Francisco,Sydney,Aisle,Business,address1,address2,18192234,1012,,,
+jojo,bean,Seattle,Zurich,Window,Coach,,,,,,,
+jojo,bean,Zurich,Denver,None,First,,,,,,,
+jojo,bean,Sydney,Frankfurt,Aisle,Coach,,,,,,,
