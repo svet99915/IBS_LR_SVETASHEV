@@ -1,0 +1,9 @@
+GET /?win=504&clid=2323222 HTTP/1.1
+Accept: text/html, application/xhtml+xml, image/jxr, */*
+Host: www.yandex.ru
+Connection: Keep-Alive
+Accept-Language: en-US,en;q=0.7,ru;q=0.3
+User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko
+Accept-Encoding: gzip, deflate
+Cookie: ymex=1945611366.yrts.1630251366; yp=1632843358.ygu.1#1630510558.clh.2323222#1646019370.szm.2:1440x900:787x390#1632929779.csc.1; _yasc=SzrtOFo+DIdlgfpCpdYKQcad/F7gYV5vZoEpcVOuK4xVKHZN24lQ40W820E=; yandex_gid=213; is_gdpr_b=CMToPBDCQigC; _ym_d=1630251366; yandexuid=370407221630091436; mda=0; my=YwA=; _ym_uid=1630251362443458723; yabs-frequency=/5/0000000000000000/K-fSkMLIENs8GY22OK5jXW0008X28m00/; i=NslmG3Mc1EpHNNPTohnKBQlgDJrYCXTvrQ8aFll6CM0C6oo/QCeEG0t3gwK/Vbs5OvYyISJwwYeFNGI++l6yWqdxOMc=; is_gdpr=0
+

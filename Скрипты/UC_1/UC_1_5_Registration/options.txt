@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\evgenijsvetasev\Desktop\UC\UC_1_5_Registration
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\evgenijsvetasev\desktop\uc\uc_1_5_registration\\logfile.log
+c:\users\evgenijsvetasev\desktop\uc\uc_1_5_registration\\combined_UC_1_5_Registration.c
+c:\users\evgenijsvetasev\desktop\uc\uc_1_5_registration\\pre_cci.c

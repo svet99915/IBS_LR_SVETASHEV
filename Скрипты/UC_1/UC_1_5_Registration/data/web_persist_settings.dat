@@ -1,0 +1,15 @@
+[StartRecordingGMT]
+StartRecordingGMT_1=2021/08/31 20:56:38
+StartRecordingIsDst_1=0
+StartRecordingGMT_2=2021/08/31 20:58:57
+StartRecordingIsDst_2=0
+StartRecordingGMT_3=2021/08/31 21:01:02
+StartRecordingIsDst_3=0
+StartRecordingGMT_4=2021/09/01 18:29:46
+StartRecordingIsDst_4=0
+[UserHomePage]
+UserHomePage=https://www.yandex.ru/?win=504&clid=2323222
+[User-Agent]
+User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; Trident/7.0; Touch; rv:11.0) like Gecko
+[Security]
+UsingPersistForAuthentication=1

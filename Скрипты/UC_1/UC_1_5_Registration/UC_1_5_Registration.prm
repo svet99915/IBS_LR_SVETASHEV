@@ -1,0 +1,16 @@
+[parameter:password_rnd]
+Format="%03lu"
+GenerateNewVal="EachIteration"
+MaxValue="99999"
+MinValue="10000"
+OriginalValue=""
+ParamName="password_rnd"
+Type="Random"
+[parameter:username_rnd]
+Format="%lu"
+GenerateNewVal="EachIteration"
+MaxValue="999999"
+MinValue="100000"
+OriginalValue=""
+ParamName="username_rnd"
+Type="Random"
