@@ -1,9 +1,0 @@
--+
--DCCI
--D_IDA_XL
--DWINNT
--IC:\Users\evgenijsvetasev\Desktop\HP\UC_1_2_Search_Ticket
--IC:\Program Files (x86)\HPE\LoadRunner\include
--ec:\users\evgenijsvetasev\desktop\hp\uc_1_2_search_ticket\\logfile.log
-c:\users\evgenijsvetasev\desktop\hp\uc_1_2_search_ticket\\combined_UC_1_2.c
-c:\users\evgenijsvetasev\desktop\hp\uc_1_2_search_ticket\\pre_cci.c
