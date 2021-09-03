@@ -1,0 +1,27 @@
+[
+    {
+        "transactionName": "Entry",
+        "rawStartTime": 1630627446827,
+        "rawEndTime": 1630627447644
+    },
+    {
+        "transactionName": "Login",
+        "rawStartTime": 1630627447762,
+        "rawEndTime": 1630627448597
+    },
+    {
+        "transactionName": "Delete_Ticket_Button",
+        "rawStartTime": 1630627448630,
+        "rawEndTime": 1630627449128
+    },
+    {
+        "transactionName": "Delete_Ticket",
+        "rawStartTime": 1630627449153,
+        "rawEndTime": 1630627449402
+    },
+    {
+        "transactionName": "UC_1_4v2_Delete_Ticket_megatransaction",
+        "rawStartTime": 1630627446817,
+        "rawEndTime": 1630627449402
+    }
+]

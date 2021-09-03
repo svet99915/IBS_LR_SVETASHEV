@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\evgenijsvetasev\Desktop\UC_1v2\UC_1_5v2_Creating_New_User
+-IC:\Program Files (x86)\HPE\LoadRunner\include
+-ec:\users\evgenijsvetasev\desktop\uc_1v2\uc_1_5v2_creating_new_user\\logfile.log
+c:\users\evgenijsvetasev\desktop\uc_1v2\uc_1_5v2_creating_new_user\\combined_UC_1_5v2_Creating_New_User.c
+c:\users\evgenijsvetasev\desktop\uc_1v2\uc_1_5v2_creating_new_user\\pre_cci.c

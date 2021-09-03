@@ -1,0 +1,42 @@
+[
+    {
+        "transactionName": "Entry",
+        "rawStartTime": 1630619026733,
+        "rawEndTime": 1630619027185
+    },
+    {
+        "transactionName": "Login",
+        "rawStartTime": 1630619027225,
+        "rawEndTime": 1630619027525
+    },
+    {
+        "transactionName": "Point_Of_Destination",
+        "rawStartTime": 1630619027557,
+        "rawEndTime": 1630619027845
+    },
+    {
+        "transactionName": "Choosing_a_ticket",
+        "rawStartTime": 1630619027879,
+        "rawEndTime": 1630619028346
+    },
+    {
+        "transactionName": "Buy_Ticket",
+        "rawStartTime": 1630619028378,
+        "rawEndTime": 1630619028753
+    },
+    {
+        "transactionName": "Invoice",
+        "rawStartTime": 1630619028784,
+        "rawEndTime": 1630619028893
+    },
+    {
+        "transactionName": "Logout",
+        "rawStartTime": 1630619028924,
+        "rawEndTime": 1630619029304
+    },
+    {
+        "transactionName": "UC_1_3v2_Buying_Ticket_megatransaction",
+        "rawStartTime": 1630619026715,
+        "rawEndTime": 1630619029315
+    }
+]

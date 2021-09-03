@@ -1,0 +1,32 @@
+[
+    {
+        "transactionName": "Entry",
+        "rawStartTime": 1630617270727,
+        "rawEndTime": 1630617271227
+    },
+    {
+        "transactionName": "Login",
+        "rawStartTime": 1630617271258,
+        "rawEndTime": 1630617271501
+    },
+    {
+        "transactionName": "Point_Of_Destination",
+        "rawStartTime": 1630617271524,
+        "rawEndTime": 1630617271733
+    },
+    {
+        "transactionName": "Choosing_a_ticket",
+        "rawStartTime": 1630617271808,
+        "rawEndTime": 1630617272314
+    },
+    {
+        "transactionName": "Logout",
+        "rawStartTime": 1630617272358,
+        "rawEndTime": 1630617272611
+    },
+    {
+        "transactionName": "UC_1_2v2_Search_Ticket_megatransaction",
+        "rawStartTime": 1630617270714,
+        "rawEndTime": 1630617272626
+    }
+]
