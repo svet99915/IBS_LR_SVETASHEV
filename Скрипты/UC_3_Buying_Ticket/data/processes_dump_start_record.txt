@@ -1,0 +1,101 @@
+Failed to get information of process Id: 0
+Failed to get information of process Id: 4
+Failed to get information of process Id: 92
+Failed to get information of process Id: 364
+Failed to get information of process Id: 464
+Failed to get information of process Id: 544
+Failed to get information of process Id: 552
+Failed to get information of process Id: 644
+Failed to get information of process Id: 692
+Failed to get information of process Id: 712
+Failed to get information of process Id: 816
+Failed to get information of process Id: 828
+Failed to get information of process Id: 836
+Failed to get information of process Id: 908
+Failed to get information of process Id: 996
+Failed to get information of process Id: 448
+Failed to get information of process Id: 1012
+Failed to get information of process Id: 1048
+Failed to get information of process Id: 1092
+Failed to get information of process Id: 1140
+Failed to get information of process Id: 1284
+Failed to get information of process Id: 1476
+Failed to get information of process Id: 1484
+Failed to get information of process Id: 1592
+Failed to get information of process Id: 1720
+Failed to get information of process Id: 1732
+Failed to get information of process Id: 1756
+Failed to get information of process Id: 1892
+Failed to get information of process Id: 1912
+Failed to get information of process Id: 2072
+Failed to get information of process Id: 2084
+Failed to get information of process Id: 2160
+Failed to get information of process Id: 2172
+Failed to get information of process Id: 2316
+Failed to get information of process Id: 2488
+Failed to get information of process Id: 2496
+Failed to get information of process Id: 2516
+Failed to get information of process Id: 2536
+Failed to get information of process Id: 2768
+Failed to get information of process Id: 1072
+Failed to get information of process Id: 3296
+Failed to get information of process Id: 3320
+Failed to get information of process Id: 3456
+Failed to get information of process Id: 3868
+Failed to get information of process Id: 3956
+Failed to get information of process Id: 2596
+Failed to get information of process Id: 4356
+Failed to get information of process Id: 4460
+Failed to get information of process Id: 4592
+Failed to get information of process Id: 4664
+Failed to get information of process Id: 4696
+Failed to get information of process Id: 4952
+Failed to get information of process Id: 5112
+Failed to get information of process Id: 4236
+Failed to get information of process Id: 2368
+Failed to get information of process Id: 5200
+Failed to get information of process Id: 5784
+Failed to get information of process Id: 5816
+PROCESS 0x1730      magentproc.exe
+PROCESS 0x17c0      discord.exe
+PROCESS 0x17f8      utweb.exe
+PROCESS 0x10dc      discord.exe
+PROCESS 0xd60       discord.exe
+PROCESS 0x129c      discord.exe
+PROCESS 0x13b4      helper.exe
+Failed to get information of process Id: 6844
+Failed to get information of process Id: 6912
+PROCESS 0x1bc0      httpd.exe
+PROCESS 0x1848      httpd.exe
+Failed to get information of process Id: 7052
+PROCESS 0x1978      jusched.exe
+Failed to get information of process Id: 6516
+Failed to get information of process Id: 7200
+PROCESS 0x1c70      discord.exe
+PROCESS 0x1edc      discord.exe
+Failed to get information of process Id: 8116
+Failed to get information of process Id: 8140
+Failed to get information of process Id: 7444
+Failed to get information of process Id: 5300
+Failed to get information of process Id: 5312
+PROCESS 0xa3c       vugen.exe
+Failed to get information of process Id: 7376
+Failed to get information of process Id: 7428
+Failed to get information of process Id: 6224
+Failed to get information of process Id: 7120
+Failed to get information of process Id: 1112
+Failed to get information of process Id: 3084
+Failed to get information of process Id: 3488
+Failed to get information of process Id: 2004
+PROCESS 0x1c28      rundll32.exe
+PROCESS 0x1d98      rundll32.exe
+PROCESS 0x1a0c      rundll32.exe
+PROCESS 0x16a0      rundll32.exe
+Failed to get information of process Id: 7956
+PROCESS 0x1eb4      vugen.exe
+Failed to get information of process Id: 7820
+Failed to get information of process Id: 3580
+Failed to get information of process Id: 5664
+Failed to get information of process Id: 6672
+Failed to get information of process Id: 7920
+Failed to get information of process Id: 452

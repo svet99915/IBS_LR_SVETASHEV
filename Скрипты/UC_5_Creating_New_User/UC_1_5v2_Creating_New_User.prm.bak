@@ -1,0 +1,8 @@
+[parameter:rnd]
+Format="%lu"
+GenerateNewVal="EachIteration"
+MaxValue="99999"
+MinValue="10000"
+OriginalValue=""
+ParamName="rnd"
+Type="Random"

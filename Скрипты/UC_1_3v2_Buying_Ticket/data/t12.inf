@@ -1,9 +1,0 @@
-[t12]
-FileName1=t12.html
-URL1=http://127.0.0.1:1080/WebTours/classes/FormDateUpdate.class
-Total=1
-RequestHeaderFile=t12_RequestHeader.txt
-RequestBodyFile=NONE
-ResponseHeaderFile=t12_ResponseHeader.txt
-ContentType=
-SnapshotXmlFile=snapshot_12.xml

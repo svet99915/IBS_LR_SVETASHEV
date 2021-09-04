@@ -1,0 +1,195 @@
+[API Trapper      ( c38: d2c)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\iexplore.exe
+[API Trapper      ( 8dc: 6cc)] Recording in 64-bit mode: C:\Program Files\Internet Explorer\IEXPLORE.EXE
+[API Trapper      (1d18: f38)] Recording in 32-bit mode: C:\Program Files (x86)\Internet Explorer\IEXPLORE.EXE
+[Network Analyzer (1d18:17b8)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1d18:17b8)] Load Network Traffic Analyzers:
+[Network Analyzer (1d18:17b8)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1d18:17b8)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer (1d18:17b8)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1d18:17b8)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer (1d18:17b8)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer (1d18:17b8)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1d18:17b8)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1d18: ac8)] Address lookup for 02D4 = 10.211.55.4
+[API Trapper      ( c78: 708)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\92.0.902.84\BHO\ie_to_edge_stub.exe
+[Network Analyzer (1d18:17b8)] Address lookup for 02D4 = 10.211.55.4
+[Network Analyzer (1d18:17b8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (1d18: 290)] Address lookup for 02D4 = 10.211.55.4
+[Web Request      (1d18: ac8)] "GET /webtours/"   
+[Network Analyzer (1d18: ac8)]   (Sid:  1) Client -> Server @ : 288 bytes (Service=HTTP)
+[Network Analyzer (1d18: 290)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (1d18: ac8)]   (Sid:  1) Server -> Client : 664 bytes  (Service=HTTP)
+[Web Request      (1d18: ac8)] "GET /webtours/header.html"   
+[Network Analyzer (1d18: ac8)]   (Sid:  1) Client -> Server @ : 341 bytes (Service=HTTP)
+[Web Request      (1d18: ac8)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (1d18: ac8)]   (Sid:  2) Client -> Server @ : 352 bytes (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  1) Server -> Client : 1007 bytes  (Service=HTTP)
+[Web Request      (1d18: ac8)] "GET /webtours/images/hp_logo.png"   
+[Network Analyzer (1d18: ac8)]   (Sid:  1) Client -> Server @ : 372 bytes (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  1) Server -> Client : 898 bytes  (Service=HTTP)
+[Network Analyzer (1d18: bf8)] Address lookup for 02D4 = 10.211.55.4
+[Network Analyzer (1d18: bf8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (1d18: ac8)]   (Sid:  2) Server -> Client : 1021 bytes  (Service=HTTP)
+[Web Request      (1d18: ac8)] "GET /webtours/images/webtours.png"   
+[Network Analyzer (1d18: ac8)]   (Sid:  3) Client -> Server @ : 373 bytes (Service=HTTP)
+[API Trapper      ( 9b0:1e94)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer (1d18: ac8)]   (Sid:  3) Server -> Client : 4487 bytes  (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1d18: ac8)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (1d18: ac8)]   (Sid:  2) Client -> Server @ : 393 bytes (Service=HTTP)
+[Web Request      (1d18: ac8)] "GET /WebTours/home.html"   
+[Network Analyzer (1d18: ac8)]   (Sid:  3) Client -> Server @ : 389 bytes (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  3) Server -> Client : 1659 bytes  (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  2) Server -> Client : 1751 bytes  (Service=HTTP)
+[Web Request      (1d18: ac8)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (1d18: ac8)]   (Sid:  3) Client -> Server @ : 404 bytes (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  3) Server -> Client : 976 bytes  (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  2) Server -> Client : 5 bytes  (Service=HTTP)
+[API Trapper      (1f80:1d2c)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Web Request      (1d18: ac8)] "GET /favicon.ico"   
+[Network Analyzer (1d18: ac8)]   (Sid:  2) Client -> Server @ : 231 bytes (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  2) Server -> Client : 424 bytes  (Service=HTTP)
+[API Trapper      (1d08: 23c)] Recording in 64-bit mode: C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+[Network Analyzer ( 9b0: 7b8)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 9b0: 7b8)] Load Network Traffic Analyzers:
+[Network Analyzer ( 9b0: 7b8)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( 9b0: 7b8)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer ( 9b0: 7b8)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( 9b0: 7b8)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer ( 9b0: 7b8)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer ( 9b0: 7b8)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( 9b0: 7b8)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( 9b0: c28)] Address lookup for 02D4 = 10.211.55.4
+[Network Analyzer (1d08:12fc)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1d08:12fc)] Load Network Traffic Analyzers:
+[Network Analyzer (1d08:12fc)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (1d08:12fc)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (1d08:12fc)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (1d08:12fc)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (1d08:12fc)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (1d08:12fc)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (1d08:12fc)] ------------------------------------------------------------------------------------------
+[Network Analyzer (1d08:  74)] Address lookup for 02D4 = 10.211.55.4
+[Network Analyzer ( 9b0: 7b8)] Address lookup for 02D4 = 10.211.55.4
+[Network Analyzer ( 9b0: 7b8)] Request Connection: Remote Server @ 52.164.226.245:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (1d08:12fc)] Address lookup for 02D4 = 10.211.55.4
+[Network Analyzer (1d08:12fc)] Request Connection: Remote Server @ 13.107.42.23:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (1d18: ac8)]   (Sid:  1) Connection Terminated (by Server)
+[Network Analyzer (1d18: ac8)]   (Sid:  3) Connection Terminated (by Server)
+[Network Analyzer (1d18: ac8)]   (Sid:  2) Connection Terminated (by Server)
+[Network Analyzer (1d08:1fa8)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer ( 9b0: b68)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.1, ciphers:ECDHE-RSA-AES256-SHA)
+[Network Analyzer ( 9b0: b68)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES256-GCM-SHA384)
+[Network Analyzer (1d08:1fa8)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer ( 9b0:1a04)] Address lookup for 02D4 = 10.211.55.4
+[Network Analyzer ( 9b0:1a04)] Request Connection: Remote Server @ 204.79.197.203:80   (Service=)  (Sid=  2)  PROXIED!
+[Web Request      (1d08:  74)] "GET /config/v1/Edge/92.0.902.84?clientId=-8453491641610216661&osname=win&client=edge&channel=stable&scpfull=0&scpguard=0&scpfre=0&osver=10.0.19043&osarch=x86_64&osedition=professional&wu=0&devicefamily=desktop&uma=0&mngd=0&installdate=1629409078"   
+[Network Analyzer (1d08:  74)]   (Sid:  1) Client -> Server @ : 612 bytes (SSL)(Service=HTTP)
+[Network Analyzer (1d08:  74)]   (Sid:  1) Server -> Client : 477 bytes (SSL) (Service=HTTP)
+[Network Analyzer (1d18: 290)] Address lookup for 02D4 = 10.211.55.4
+[Network Analyzer (1d18: 488)] Address lookup for 02D4 = 10.211.55.4
+[Network Analyzer (1d18: 290)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  4)  PROXIED!
+[Web Request      (1d18: ac8)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (1d18: ac8)]   (Sid:  4) Client -> Server @ : 595 bytes (Service=HTTP)
+[Network Analyzer (1d18: 488)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (1d18: ac8)]   (Sid:  4) Server -> Client : 847 bytes  (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  4) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1d18: ac8)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (1d18: ac8)]   (Sid:  4) Client -> Server @ : 498 bytes (Service=HTTP)
+[Web Request      (1d18: ac8)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (1d18: ac8)]   (Sid:  5) Client -> Server @ : 493 bytes (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  5) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  5) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  4) Server -> Client : 1744 bytes  (Service=HTTP)
+[Web Request      (1d18: ac8)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (1d18: ac8)]   (Sid:  5) Client -> Server @ : 522 bytes (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  4) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1d18: 290)] Address lookup for 02D4 = 10.211.55.4
+[Network Analyzer (1d18: bf8)] Address lookup for 02D4 = 10.211.55.4
+[Web Request      (1d18: ac8)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (1d18: ac8)]   (Sid:  4) Client -> Server @ : 524 bytes (Service=HTTP)
+[Network Analyzer (1d18: 488)] Address lookup for 02D4 = 10.211.55.4
+[Network Analyzer (1d18: 290)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  6)  PROXIED!
+[Web Request      (1d18: ac8)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (1d18: ac8)]   (Sid:  6) Client -> Server @ : 522 bytes (Service=HTTP)
+[Network Analyzer (1d18: bf8)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (1d18: ac8)]   (Sid:  5) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  6) Server -> Client : 986 bytes  (Service=HTTP)
+[Web Request      (1d18: ac8)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (1d18: ac8)]   (Sid:  7) Client -> Server @ : 522 bytes (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  7) Server -> Client : 1049 bytes  (Service=HTTP)
+[Network Analyzer (1d18: 488)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (1d18: ac8)]   (Sid:  4) Server -> Client : 1030 bytes  (Service=HTTP)
+[Web Request      ( 9b0: c28)] "GET /ocsp/MFQwUjBQME4wTDAJBgUrDgMCGgUABBQY%2BIWplxzce%2B%2BGCW0BmDyo%2BZ8lVgQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEzMAFZWeH9ZX2%2B5oqL8AAAAVlZ4%3D"   
+[Network Analyzer ( 9b0: c28)]   (Sid:  2) Client -> Server @ : 259 bytes (Service=HTTP)
+[Network Analyzer ( 9b0: c28)]   (Sid:  2) Server -> Client : 465 bytes  (Service=HTTP)
+[Web Request      ( 9b0: c28)] "GET /ocsp/MFQwUjBQME4wTDAJBgUrDgMCGgUABBQY%2BIWplxzce%2B%2BGCW0BmDyo%2BZ8lVgQUJPIuTg%2B9yvc%2BKVXKco1ph1ZE6XoCEzMAFZWeH9ZX2%2B5oqL8AAAAVlZ4%3D"   
+[Network Analyzer ( 9b0: c28)]   (Sid:  2) Client -> Server @ : 302 bytes (Service=HTTP)
+[Network Analyzer ( 9b0: c28)]   (Sid:  2) Server -> Client : 464 bytes  (Service=HTTP)
+[Network Analyzer ( 9b0:1a04)] Address lookup for 02D4 = 10.211.55.4
+[Network Analyzer ( 9b0:1a04)] Request Connection: Remote Server @ 104.73.93.171:80   (Service=)  (Sid=  3)  PROXIED!
+[Web Request      ( 9b0: c28)] "GET /pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2005.crl"   
+[Network Analyzer ( 9b0: c28)]   (Sid:  3) Client -> Server @ : 176 bytes (Service=HTTP)
+[Network Analyzer ( 9b0: c28)]   (Sid:  3) Server -> Client : 1198 bytes  (Service=HTTP)
+[Web Request      ( 9b0: c28)] "GET /pkiops/crl/Microsoft%20Azure%20TLS%20Issuing%20CA%2005.crl"   
+[Network Analyzer ( 9b0: c28)]   (Sid:  3) Client -> Server @ : 219 bytes (Service=HTTP)
+[Network Analyzer ( 9b0: c28)]   (Sid:  3) Server -> Client : 1198 bytes  (Service=HTTP)
+[Network Analyzer ( 9b0: c28)]   (Sid:  1) Connection Terminated (by Client)
+[Web Request      (1d18: ac8)] "GET /cgi-bin/welcome.pl?page=search"   
+[Network Analyzer (1d18: ac8)]   (Sid:  4) Client -> Server @ : 512 bytes (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  4) Server -> Client : 838 bytes  (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  4) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1d18: ac8)] "GET /cgi-bin/nav.pl?page=menu&in=flights"   
+[Network Analyzer (1d18: ac8)]   (Sid:  4) Client -> Server @ : 515 bytes (Service=HTTP)
+[Web Request      (1d18: ac8)] "GET /cgi-bin/reservations.pl?page=welcome"   
+[Network Analyzer (1d18: ac8)]   (Sid:  7) Client -> Server @ : 516 bytes (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  4) Server -> Client : 1744 bytes  (Service=HTTP)
+[Web Request      (1d18: ac8)] "GET /WebTours/images/in_flights.gif"   
+[Network Analyzer (1d18: ac8)]   (Sid:  6) Client -> Server @ : 528 bytes (Service=HTTP)
+[Web Request      (1d18: ac8)] "GET /WebTours/images/home.gif"   
+[Network Analyzer (1d18: ac8)]   (Sid:  5) Client -> Server @ : 522 bytes (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  6) Server -> Client : 1023 bytes  (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  5) Server -> Client : 985 bytes  (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  4) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  7) Server -> Client : 4234 bytes  (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  7) Server -> Client : 281 bytes  (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  7) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (1d18: ac8)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer (1d18: ac8)]   (Sid:  7) Client -> Server @ : 530 bytes (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  7) Server -> Client : 1055 bytes  (Service=HTTP)
+[Network Analyzer (1d08:  74)]   (Sid:  1) Connection Terminated (by Client)
+[API Trapper      ( a5c: cec)] Recording in 32-bit mode: C:\Program Files (x86)\Java\jre1.8.0_301\bin\jp2launcher.exe
+[Network Analyzer ( a5c: bc8)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( a5c: bc8)] Load Network Traffic Analyzers:
+[Network Analyzer ( a5c: bc8)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer ( a5c: bc8)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter.dll)
+[Network Analyzer ( a5c: bc8)]     + Network Analyzer: api_http_filter.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer ( a5c: bc8)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter.dll
+[Network Analyzer ( a5c: bc8)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer.dll)
+[Network Analyzer ( a5c: bc8)]     + Network Analyzer: WebSocketAnalyzer.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer ( a5c: bc8)] ------------------------------------------------------------------------------------------
+[Network Analyzer ( a5c:1118)] Address lookup for 02D4 = 10.211.55.4
+[Network Analyzer ( a5c: bc8)] Request Connection: Remote Server @ 0:0:0:0:0:FFFF:7F00:1: - 1080  (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (1d18: ac8)]   (Sid:  6) Connection Terminated (by Server)
+[Network Analyzer (1d18: ac8)]   (Sid:  5) Connection Terminated (by Server)
+[Network Analyzer (1d18: ac8)]   (Sid:  4) Connection Terminated (by Server)
+[Network Analyzer (1d18: ac8)]   (Sid:  7) Connection Terminated (by Server)
+[Web Request      ( a5c:1d24)] "HEAD /WebTours/classes/FormDateUpdate.class"   
+[Network Analyzer ( a5c:1d24)]   (Sid:  1) Client -> Server @ : 476 bytes (Service=HTTP)
+[Network Analyzer ( a5c:1d24)]   (Sid:  1) Server -> Client : 194 bytes  (Service=HTTP)
+[Network Analyzer (1d18:1a68)] Address lookup for 02D4 = 10.211.55.4
+[Network Analyzer (1d18: ac8)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (1d18:1a68)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  9)  PROXIED!
+[Web Request      (1d18: ac8)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (1d18: ac8)]   (Sid:  9) Client -> Server @ : 841 bytes (Service=HTTP)
+[Network Analyzer (1d18: 488)] Address lookup for 02D4 = 10.211.55.4
+[Network Analyzer (1d18: 488)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (1d18: ac8)]   (Sid:  9) Server -> Client : 2683 bytes  (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  9) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer ( a5c:1d24)]   (Sid:  1) Connection Terminated (by Server)
+[Web Request      (1d18: ac8)] "POST /cgi-bin/reservations.pl"   
+[Network Analyzer (1d18: ac8)]   (Sid:  9) Client -> Server @ : 733 bytes (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  9) Server -> Client : 2956 bytes  (Service=HTTP)
+[Network Analyzer (1d18: ac8)]   (Sid:  9) Server -> Client : 5 bytes  (Service=HTTP)
+[User action                 ] StartTransactionEvent 1_transaction [Network Analyzer (1d18: ac8)]   (Sid:  9) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent 1_transaction 

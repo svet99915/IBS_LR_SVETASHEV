@@ -1,0 +1,27 @@
+[
+    {
+        "transactionName": "Entry",
+        "rawStartTime": 1630623818657,
+        "rawEndTime": 1630623819182
+    },
+    {
+        "transactionName": "Creating_User",
+        "rawStartTime": 1630623819214,
+        "rawEndTime": 1630623819923
+    },
+    {
+        "transactionName": "Signup",
+        "rawStartTime": 1630623819953,
+        "rawEndTime": 1630623820474
+    },
+    {
+        "transactionName": "Logout",
+        "rawStartTime": 1630623820490,
+        "rawEndTime": 1630623820749
+    },
+    {
+        "transactionName": "UC_1_5v2_Creating_New_User_megatransaction",
+        "rawStartTime": 1630623818642,
+        "rawEndTime": 1630623820760
+    }
+]
