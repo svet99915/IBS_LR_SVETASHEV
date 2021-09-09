@@ -7,13 +7,13 @@ NewFunctionHeader=1
 RunType=cci
 ActionLogicExt=action_logic
 LastActiveAction=Action
-MajorVersion=12
-MinorVersion=55
+MajorVersion=2020
+MinorVersion=0
 ActiveTypes=QTWeb
 GenerateTypes=QTWeb
 AdditionalTypes=QTWeb
 DevelopTool=Vugen
-LastModifyVer=12.55.0.911
+LastModifyVer=2020.0.0.0
 ParamLeftBrace={
 ParamRightBrace=}
 ScriptLanguage=C
@@ -22,6 +22,7 @@ DisableRegenerate=0
 Encoding=ANSI
 Description=
 ScriptLocale=ru-RU
+DFERebrandFlag=Done
 [Actions]
 vuser_init=vuser_init.c
 Action=Action.c
@@ -51,7 +52,7 @@ vuser_init=cci
 Action=cci
 vuser_end=cci
 [TransactionsOrder]
-Order="UC_1_3v2_Buying_Ticket_megatransaction__*delimiter*__Entry__*delimiter*__Login__*delimiter*__Point_Of_Destination__*delimiter*__Choosing_a_ticket__*delimiter*__Buy_Ticket__*delimiter*__Invoice__*delimiter*__Logout"
+Order="UC_1_3v2_Buying_Ticket_megatransaction__*delimiter*__Entry__*delimiter*__Login__*delimiter*__Point_Of_Destination__*delimiter*__Choosing_a_ticket__*delimiter*__Buy_Ticket__*delimiter*__Invoice"
 [StateManagement]
 LastReplayStatus=1
 [ActiveReplay]
@@ -65,4 +66,3 @@ Point_Of_Destination=
 Choosing_a_ticket=
 Buy_Ticket=
 Invoice=
-Logout=

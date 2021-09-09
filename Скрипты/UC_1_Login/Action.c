@@ -3,6 +3,8 @@ Action()
 	lr_start_transaction("UC_1_1v2_Login_megatransaction");
 	
 	
+
+	
 	lr_start_transaction("Entry");
 	web_reg_find("Text/IC= A Session ID has been created and loaded into a cookie called MSO",
 			LAST);

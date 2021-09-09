@@ -129,13 +129,13 @@
 ]
 >
 <Report ver="2.0" tmZone="RTZ 2 (зима)">
-<General productName="Vugen" productVer="12" os="" host="02D4"><DocLocation><![CDATA[C:\Users\evgenijsvetasev\Desktop\UC_1v2\UC_1_1v2_Login]]></DocLocation></General>
+<General productName="Vugen" productVer="2020" os="" host="02D4"><DocLocation><![CDATA[C:\Users\evgenijsvetasev\Desktop\UC_1v3\UC_1_Login]]></DocLocation></General>
 <Doc rID="T1"   productName= "Vugen"  >
-<DName><![CDATA[UC_1_1v2_Login]]></DName>
+<DName><![CDATA[UC_1_Login]]></DName>
 <Res><![CDATA[result1]]></Res>
 <Action rID="T2">
 <AName><![CDATA[vuser_init]]></AName>
-<Summary sTime="02.09.2021 - 23:04:57" eTime="02.09.2021 - 23:04:57" passed="0" failed="0" warnings="0" ></Summary>
+<Summary sTime="09.09.2021 - 0:50:06" eTime="09.09.2021 - 0:50:06" passed="0" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartAction" icon="2" nRep="5" >
 <Disp><![CDATA[vuser_init Summary]]></Disp>
 </NodeArgs>
@@ -146,8 +146,8 @@
 <Step rID="T5">
 <Obj plainTxt="False" ><![CDATA[Service: Reg Find]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#00AF00>Text/IC= A Session ID has been created and loaded into a cookie called MSO</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[02.09.2021 - 23:04:57]]></Time>
-<TimeTick>1630613097</TimeTick>
+<Time><![CDATA[09.09.2021 - 0:50:06]]></Time>
+<TimeTick>1631137806</TimeTick>
 <NodeArgs eType="General" icon="4" nRep="9" >
 <Disp><![CDATA[Service: Reg Find]]></Disp>
 </NodeArgs>
@@ -156,8 +156,8 @@
 <Obj plainTxt="False" ><![CDATA[Service: Reg Save Param RegExp]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER>ParamName = <STRONG><FONT COLOR=#00AF00>userSession</FONT></STRONG><BR>RegExp = <STRONG><FONT COLOR=#00AF00>name="userSession"\ value="(.*?)"/>\
 <table\ border</FONT></STRONG><BR>Instance = <STRONG><FONT COLOR=#00AF00>[param not passed in call]</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[02.09.2021 - 23:04:57]]></Time>
-<TimeTick>1630613097</TimeTick>
+<Time><![CDATA[09.09.2021 - 0:50:06]]></Time>
+<TimeTick>1631137806</TimeTick>
 <NodeArgs eType="General" icon="5" nRep="10" >
 <Disp><![CDATA[Service: Reg Save Param RegExp]]></Disp>
 </NodeArgs>
@@ -165,8 +165,8 @@
 <Step rID="T7">
 <Obj plainTxt="False" ><![CDATA[Url: webtours]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[02.09.2021 - 23:04:58]]></Time>
-<TimeTick>1630613098</TimeTick>
+<Time><![CDATA[09.09.2021 - 0:50:07]]></Time>
+<TimeTick>1631137807</TimeTick>
 <NodeArgs eType="General" icon="6" nRep="11" status="Passed" >
 <Disp><![CDATA[Url: webtours]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -177,8 +177,8 @@
 <Step rID="T8">
 <Obj plainTxt="False" ><![CDATA[Service: Reg Find]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#00AF00>Text/IC=User password was correct</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[02.09.2021 - 23:04:58]]></Time>
-<TimeTick>1630613098</TimeTick>
+<Time><![CDATA[09.09.2021 - 0:50:12]]></Time>
+<TimeTick>1631137812</TimeTick>
 <NodeArgs eType="General" icon="4" nRep="12" >
 <Disp><![CDATA[Service: Reg Find]]></Disp>
 </NodeArgs>
@@ -186,8 +186,8 @@
 <Step rID="T9">
 <Obj plainTxt="False" ><![CDATA[Submit Data: login.pl]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[02.09.2021 - 23:04:58]]></Time>
-<TimeTick>1630613098</TimeTick>
+<Time><![CDATA[09.09.2021 - 0:50:12]]></Time>
+<TimeTick>1631137812</TimeTick>
 <NodeArgs eType="General" icon="7" nRep="13" status="Passed" >
 <Disp><![CDATA[Submit Data: login.pl]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -198,8 +198,8 @@
 <Step rID="T10">
 <Obj plainTxt="False" ><![CDATA[Service: Reg Find]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#00AF00>Text/IC= A Session ID has been created and loaded into a cookie called MSO</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[02.09.2021 - 23:04:58]]></Time>
-<TimeTick>1630613098</TimeTick>
+<Time><![CDATA[09.09.2021 - 0:50:17]]></Time>
+<TimeTick>1631137817</TimeTick>
 <NodeArgs eType="General" icon="4" nRep="14" >
 <Disp><![CDATA[Service: Reg Find]]></Disp>
 </NodeArgs>
@@ -207,8 +207,8 @@
 <Step rID="T11">
 <Obj plainTxt="False" ><![CDATA[Url: SignOff Button]]></Obj>
 <Details plainTxt="False" ><![CDATA[<CENTER><STRONG><FONT COLOR=#009A63>Step completed successfully</FONT></STRONG></CENTER>]]></Details>
-<Time><![CDATA[02.09.2021 - 23:04:59]]></Time>
-<TimeTick>1630613099</TimeTick>
+<Time><![CDATA[09.09.2021 - 0:50:17]]></Time>
+<TimeTick>1631137817</TimeTick>
 <NodeArgs eType="General" icon="6" nRep="15" status="Passed" >
 <Disp><![CDATA[Url: SignOff Button]]></Disp>
 <BtmPane vType="HTMLSNSH" >
@@ -216,25 +216,25 @@
 </BtmPane>
 </NodeArgs>
 </Step>
-<Summary sTime="02.09.2021 - 23:04:57" eTime="02.09.2021 - 23:04:59" passed="3" failed="0" warnings="0" ></Summary>
+<Summary sTime="09.09.2021 - 0:50:06" eTime="09.09.2021 - 0:50:17" passed="3" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartAction" icon="2" nRep="8" status="Passed" >
 <Disp><![CDATA[Action Summary]]></Disp>
 </NodeArgs>
 </Action>
 <NodeArgs eType="StartIteration" icon="3" nRep="7" status="Passed" >
-<Disp><![CDATA[UC_1_1v2_Login Iteration 1 (Row 1)]]></Disp>
+<Disp><![CDATA[UC_1_Login Iteration 1 (Row 1)]]></Disp>
 </NodeArgs>
 </DIter>
 <Action rID="T12">
 <AName><![CDATA[vuser_end]]></AName>
-<Summary sTime="02.09.2021 - 23:04:59" eTime="02.09.2021 - 23:04:59" passed="0" failed="0" warnings="0" ></Summary>
+<Summary sTime="09.09.2021 - 0:50:17" eTime="09.09.2021 - 0:50:17" passed="0" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartAction" icon="2" nRep="18" >
 <Disp><![CDATA[vuser_end Summary]]></Disp>
 </NodeArgs>
 </Action>
-<Summary sTime="02.09.2021 - 23:04:57" eTime="02.09.2021 - 23:04:59" passed="3" failed="0" warnings="0" ></Summary>
+<Summary sTime="09.09.2021 - 0:50:06" eTime="09.09.2021 - 0:50:17" passed="3" failed="0" warnings="0" ></Summary>
 <NodeArgs eType="StartTest" icon="1" nRep="4" status="Passed" >
-<Disp><![CDATA[Test UC_1_1v2_Login Summary]]></Disp>
+<Disp><![CDATA[Test UC_1_Login Summary]]></Disp>
 </NodeArgs>
 </Doc>
 </Report>

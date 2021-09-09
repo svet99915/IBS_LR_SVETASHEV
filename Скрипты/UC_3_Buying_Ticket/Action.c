@@ -207,23 +207,23 @@ Action()
 	
 	lr_think_time(5);
 
-	lr_start_transaction("Logout");
-	
-	web_reg_find("Text/IC= A Session ID has been created and loaded into a cookie called MSO",
-		LAST);
-	
-	web_url("welcome.pl", 
-		"URL=http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=1", 
-		"TargetFrame=", 
-		"Resource=0", 
-		"RecContentType=text/html", 
-		"Referer=http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=flights", 
-		"Snapshot=t9.inf", 
-		"Mode=HTML", 
-		LAST);
-	
-	lr_end_transaction("Logout",LR_AUTO);
-	
+//	lr_start_transaction("Logout");
+//	
+//	web_reg_find("Text/IC= A Session ID has been created and loaded into a cookie called MSO",
+//		LAST);
+//	
+//	web_url("welcome.pl", 
+//		"URL=http://127.0.0.1:1080/cgi-bin/welcome.pl?signOff=1", 
+//		"TargetFrame=", 
+//		"Resource=0", 
+//		"RecContentType=text/html", 
+//		"Referer=http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=flights", 
+//		"Snapshot=t9.inf", 
+//		"Mode=HTML", 
+//		LAST);
+//	
+//	lr_end_transaction("Logout",LR_AUTO);
+//	
 	lr_end_transaction("UC_1_3v2_Buying_Ticket_megatransaction",LR_AUTO);
 	return 0;
 }

@@ -1,0 +1,4 @@
+"1=on&flightID=48519355-7923-JB&flightID=42445315-15584-JB&flightID=48037908-23196-JB&flightID="
+"145111909-30943-JB&flightID=320593463-38621-JB&flightID=367445243-46327-JB&flightID=56260023-5"
+"3992-JB&flightID=203519317-61799-JB&.cgifields=6&.cgifields=3&.cgifields=7&.cgifields=2&.cgifi"
+"elds=8&.cgifields=1&.cgifields=4&.cgifields=5&removeFlights.x=59&removeFlights.y=7"
