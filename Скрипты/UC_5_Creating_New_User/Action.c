@@ -88,6 +88,26 @@ web_reg_find("Text/IC=We hope we can meet all your current and future travel nee
 //		LAST);
 
 	lr_end_transaction("Signup",LR_AUTO);
+	
+	lr_start_transaction("new_user");
+	
+	
+	web_reg_find("Text/IC=Since user has already logged on",
+			LAST);
+	//Since user has already logged on
+	web_url("button_next.gif", 
+		"URL=http://127.0.0.1:1080/cgi-bin/welcome.pl?page=menus", 
+		"TargetFrame=body", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://127.0.0.1:1080/cgi-bin/login.pl", 
+		"Snapshot=t5.inf", 
+		"Mode=HTML", 
+		LAST);
+	
+	
+	lr_end_transaction("new_user",LR_AUTO);
+	
 	lr_start_transaction("Logout");
 	web_reg_find("Text/IC= A Session ID has been created and loaded into a cookie called MSO",
 		LAST);

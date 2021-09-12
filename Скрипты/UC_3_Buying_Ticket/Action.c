@@ -186,25 +186,48 @@ Action()
 	
 	lr_think_time(5);
 
-	lr_start_transaction("Invoice");
+	lr_start_transaction("Delete_Ticket_Button");
 
-	web_submit_data("reservations.pl_4", 
-		"Action=http://127.0.0.1:1080/cgi-bin/reservations.pl", 
-		"Method=POST", 
-		"TargetFrame=", 
-		"RecContentType=text/html", 
-		"Referer=http://127.0.0.1:1080/cgi-bin/reservations.pl", 
-		"Snapshot=t11.inf", 
-		"Mode=HTML", 
-		ITEMDATA, 
-		"Name=Book Another.x", "Value=48", ENDITEM, 
-		"Name=Book Another.y", "Value=6", ENDITEM, 
+	web_reg_save_param("flightID1",
+		"LB=flightID\" value=\"",
+		"RB=\"",
 		LAST);
-
-
-
-	lr_end_transaction("Invoice",LR_AUTO);
 	
+	
+
+	
+	
+	web_url("Itinerary Button", 
+		"URL=http://127.0.0.1:1080/cgi-bin/welcome.pl?page=itinerary", 
+		"TargetFrame=body", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=home", 
+		"Snapshot=t3.inf", 
+		"Mode=HTML", 
+		LAST);
+	lr_end_transaction("Delete_Ticket_Button",LR_AUTO);
+	
+	
+//	lr_start_transaction("Invoice");
+
+//	web_submit_data("reservations.pl_4", 
+//		"Action=http://127.0.0.1:1080/cgi-bin/reservations.pl", 
+//		"Method=POST", 
+//		"TargetFrame=", 
+//		"RecContentType=text/html", 
+//		"Referer=http://127.0.0.1:1080/cgi-bin/reservations.pl", 
+//		"Snapshot=t11.inf", 
+//		"Mode=HTML", 
+//		ITEMDATA, 
+//		"Name=Book Another.x", "Value=48", ENDITEM, 
+//		"Name=Book Another.y", "Value=6", ENDITEM, 
+//		LAST);
+//
+//
+//
+//	lr_end_transaction("Invoice",LR_AUTO);
+//	
 	lr_think_time(5);
 
 //	lr_start_transaction("Logout");

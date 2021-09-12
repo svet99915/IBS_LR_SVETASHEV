@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Users\evgenijsvetasev\Desktop\UC_1v3\UC_4_Delete_Ticket
+-IC:\Users\evgenijsvetasev\Desktop\Github\IBS_LR_SVETASHEV\Скрипты\UC_4_Delete_Ticket
 -IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\users\evgenijsvetasev\desktop\uc_1v3\uc_4_delete_ticket\\logfile.log
-c:\users\evgenijsvetasev\desktop\uc_1v3\uc_4_delete_ticket\\combined_UC_4_Delete_Ticket.c
-c:\users\evgenijsvetasev\desktop\uc_1v3\uc_4_delete_ticket\\pre_cci.c
+-ec:\users\evgenijsvetasev\desktop\github\ibs_lr_svetashev\скрипты\uc_4_delete_ticket\\logfile.log
+c:\users\evgenijsvetasev\desktop\github\ibs_lr_svetashev\скрипты\uc_4_delete_ticket\\combined_UC_4_Delete_Ticket.c
+c:\users\evgenijsvetasev\desktop\github\ibs_lr_svetashev\скрипты\uc_4_delete_ticket\\pre_cci.c

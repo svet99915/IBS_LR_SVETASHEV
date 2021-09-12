@@ -103,9 +103,9 @@ Action()
 	// этот текст пишется после удаления
 	
 	
-	
-		web_reg_find("Text/IC= scheduled flights",
-		LAST);
+//	
+//		web_reg_find("Text/IC= scheduled flights",
+//		LAST);
 	
 
 	

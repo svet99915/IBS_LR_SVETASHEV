@@ -1,5 +1,5 @@
 "firstName=James&lastName=Bond&address1=address0&address2=address00&pass1=James+Bond&pass2=Bana"
 "nas+Ananas&pass3=Droid+R2-D2&pass4=Droid+C3-PO&pass5=Han+Solo&pass6=Anakin+Skywalker&pass7=Adm"
-"iral+Piett&pass8=Luke+Skywalker&creditCard=59801002&expDate=1009&oldCCOption=&numPassengers=7&"
-"seatType=First&seatPref=Aisle&outboundFlight=021%3B565%3B09%2F10%2F2021&advanceDiscount=0&retu"
+"iral+Piett&pass8=Luke+Skywalker&creditCard=31531927&expDate=1009&oldCCOption=&numPassengers=3&"
+"seatType=First&seatPref=Aisle&outboundFlight=020%3B635%3B09%2F12%2F2021&advanceDiscount=0&retu"
 "rnFlight=&JSFormSubmit=off&.cgifields=saveCC&buyFlights.x=81&buyFlights.y=8"

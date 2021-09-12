@@ -1,4 +1,4 @@
-# 1 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_3_buying_ticket\\\\combined_UC_3_Buying_Ticket.c"
+# 1 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_3_buying_ticket\\\\combined_UC_3_Buying_Ticket.c"
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h" 1
  
  
@@ -966,7 +966,7 @@ int lr_db_getvalue(char * pFirstArg, ...);
 
 
 
-# 1 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_3_buying_ticket\\\\combined_UC_3_Buying_Ticket.c" 2
+# 1 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_3_buying_ticket\\\\combined_UC_3_Buying_Ticket.c" 2
 
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/SharedParameter.h" 1
 
@@ -1132,7 +1132,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 2 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_3_buying_ticket\\\\combined_UC_3_Buying_Ticket.c" 2
+# 2 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_3_buying_ticket\\\\combined_UC_3_Buying_Ticket.c" 2
 
 # 1 "globals.h" 1
 
@@ -2593,14 +2593,14 @@ void
 
 
 
-# 3 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_3_buying_ticket\\\\combined_UC_3_Buying_Ticket.c" 2
+# 3 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_3_buying_ticket\\\\combined_UC_3_Buying_Ticket.c" 2
 
 # 1 "vuser_init.c" 1
 vuser_init()
 {
 	return 0;
 }
-# 4 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_3_buying_ticket\\\\combined_UC_3_Buying_Ticket.c" 2
+# 4 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_3_buying_ticket\\\\combined_UC_3_Buying_Ticket.c" 2
 
 # 1 "Action.c" 1
 Action()
@@ -2791,25 +2791,48 @@ Action()
 	
 	lr_think_time(5);
 
-	lr_start_transaction("Invoice");
+	lr_start_transaction("Delete_Ticket_Button");
 
-	web_submit_data("reservations.pl_4", 
-		"Action=http://127.0.0.1:1080/cgi-bin/reservations.pl", 
-		"Method=POST", 
-		"TargetFrame=", 
-		"RecContentType=text/html", 
-		"Referer=http://127.0.0.1:1080/cgi-bin/reservations.pl", 
-		"Snapshot=t11.inf", 
-		"Mode=HTML", 
-		"ITEMDATA", 
-		"Name=Book Another.x", "Value=48", "ENDITEM", 
-		"Name=Book Another.y", "Value=6", "ENDITEM", 
+	web_reg_save_param("flightID1",
+		"LB=flightID\" value=\"",
+		"RB=\"",
 		"LAST");
-
-
-
-	lr_end_transaction("Invoice",2);
 	
+	
+
+	
+	
+	web_url("Itinerary Button", 
+		"URL=http://127.0.0.1:1080/cgi-bin/welcome.pl?page=itinerary", 
+		"TargetFrame=body", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://127.0.0.1:1080/cgi-bin/nav.pl?page=menu&in=home", 
+		"Snapshot=t3.inf", 
+		"Mode=HTML", 
+		"LAST");
+	lr_end_transaction("Delete_Ticket_Button",2);
+	
+	
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 	lr_think_time(5);
 
  
@@ -2832,7 +2855,7 @@ Action()
 	lr_end_transaction("UC_1_3v2_Buying_Ticket_megatransaction",2);
 	return 0;
 }
-# 5 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_3_buying_ticket\\\\combined_UC_3_Buying_Ticket.c" 2
+# 5 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_3_buying_ticket\\\\combined_UC_3_Buying_Ticket.c" 2
 
 # 1 "vuser_end.c" 1
 vuser_end()
@@ -2841,5 +2864,5 @@ vuser_end()
 
 	return 0;
 }
-# 6 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_3_buying_ticket\\\\combined_UC_3_Buying_Ticket.c" 2
+# 6 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_3_buying_ticket\\\\combined_UC_3_Buying_Ticket.c" 2
 

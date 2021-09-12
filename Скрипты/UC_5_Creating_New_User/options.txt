@@ -2,8 +2,8 @@
 -DCCI
 -D_IDA_XL
 -DWINNT
--IC:\Users\evgenijsvetasev\Desktop\UC_1v3\UC_5_Creating_New_User
+-IC:\Users\evgenijsvetasev\Desktop\Github\IBS_LR_SVETASHEV\Скрипты\UC_5_Creating_New_User
 -IC:\Program Files (x86)\Micro Focus\LoadRunner\include
--ec:\users\evgenijsvetasev\desktop\uc_1v3\uc_5_creating_new_user\\logfile.log
-c:\users\evgenijsvetasev\desktop\uc_1v3\uc_5_creating_new_user\\combined_UC_5_Creating_New_User.c
-c:\users\evgenijsvetasev\desktop\uc_1v3\uc_5_creating_new_user\\pre_cci.c
+-ec:\users\evgenijsvetasev\desktop\github\ibs_lr_svetashev\скрипты\uc_5_creating_new_user\\logfile.log
+c:\users\evgenijsvetasev\desktop\github\ibs_lr_svetashev\скрипты\uc_5_creating_new_user\\combined_UC_5_Creating_New_User.c
+c:\users\evgenijsvetasev\desktop\github\ibs_lr_svetashev\скрипты\uc_5_creating_new_user\\pre_cci.c

@@ -1,8 +1,6 @@
 HTTP/1.1 200 OK
-Date: Wed, 08 Sep 2021 22:07:58 GMT
+Date: Sat, 11 Sep 2021 17:41:39 GMT
 Server: Apache/2.2.21 (Win32)
-Set-Cookie: MSO=SID&1631138878; path=/
-Set-Cookie: MTUserInfo=; path=/; expires=Tue, 07-Sep-2021 22:07:58 GMT
 Keep-Alive: timeout=5, max=99
 Connection: Keep-Alive
 Transfer-Encoding: chunked

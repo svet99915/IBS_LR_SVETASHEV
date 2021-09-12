@@ -1,4 +1,4 @@
-# 1 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_4_delete_ticket\\\\combined_UC_4_Delete_Ticket.c"
+# 1 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_4_delete_ticket\\\\combined_UC_4_Delete_Ticket.c"
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h" 1
  
  
@@ -966,7 +966,7 @@ int lr_db_getvalue(char * pFirstArg, ...);
 
 
 
-# 1 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_4_delete_ticket\\\\combined_UC_4_Delete_Ticket.c" 2
+# 1 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_4_delete_ticket\\\\combined_UC_4_Delete_Ticket.c" 2
 
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/SharedParameter.h" 1
 
@@ -1132,7 +1132,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 2 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_4_delete_ticket\\\\combined_UC_4_Delete_Ticket.c" 2
+# 2 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_4_delete_ticket\\\\combined_UC_4_Delete_Ticket.c" 2
 
 # 1 "globals.h" 1
 
@@ -2589,14 +2589,14 @@ void
  
 
 
-# 3 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_4_delete_ticket\\\\combined_UC_4_Delete_Ticket.c" 2
+# 3 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_4_delete_ticket\\\\combined_UC_4_Delete_Ticket.c" 2
 
 # 1 "vuser_init.c" 1
 vuser_init()
 {
 	return 0;
 }
-# 4 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_4_delete_ticket\\\\combined_UC_4_Delete_Ticket.c" 2
+# 4 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_4_delete_ticket\\\\combined_UC_4_Delete_Ticket.c" 2
 
 # 1 "Action.c" 1
 Action()
@@ -2704,9 +2704,9 @@ Action()
 	 
 	
 	
-	
-		web_reg_find("Text/IC= scheduled flights",
-		"LAST");
+ 
+ 
+ 
 	
 
 	
@@ -2753,12 +2753,12 @@ Action()
 	
 	return 0;
 }
-# 5 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_4_delete_ticket\\\\combined_UC_4_Delete_Ticket.c" 2
+# 5 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_4_delete_ticket\\\\combined_UC_4_Delete_Ticket.c" 2
 
 # 1 "vuser_end.c" 1
 vuser_end()
 {
 	return 0;
 }
-# 6 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_4_delete_ticket\\\\combined_UC_4_Delete_Ticket.c" 2
+# 6 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_4_delete_ticket\\\\combined_UC_4_Delete_Ticket.c" 2
 

@@ -1,4 +1,4 @@
-# 1 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_5_creating_new_user\\\\combined_UC_5_Creating_New_User.c"
+# 1 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_5_creating_new_user\\\\combined_UC_5_Creating_New_User.c"
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/lrun.h" 1
  
  
@@ -966,7 +966,7 @@ int lr_db_getvalue(char * pFirstArg, ...);
 
 
 
-# 1 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_5_creating_new_user\\\\combined_UC_5_Creating_New_User.c" 2
+# 1 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_5_creating_new_user\\\\combined_UC_5_Creating_New_User.c" 2
 
 # 1 "C:\\Program Files (x86)\\Micro Focus\\LoadRunner\\include/SharedParameter.h" 1
 
@@ -1132,7 +1132,7 @@ extern VTCERR2  lrvtc_noop();
 
 
 
-# 2 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_5_creating_new_user\\\\combined_UC_5_Creating_New_User.c" 2
+# 2 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_5_creating_new_user\\\\combined_UC_5_Creating_New_User.c" 2
 
 # 1 "globals.h" 1
 
@@ -2589,14 +2589,14 @@ void
  
 
 
-# 3 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_5_creating_new_user\\\\combined_UC_5_Creating_New_User.c" 2
+# 3 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_5_creating_new_user\\\\combined_UC_5_Creating_New_User.c" 2
 
 # 1 "vuser_init.c" 1
 vuser_init()
 {
 	return 0;
 }
-# 4 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_5_creating_new_user\\\\combined_UC_5_Creating_New_User.c" 2
+# 4 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_5_creating_new_user\\\\combined_UC_5_Creating_New_User.c" 2
 
 # 1 "Action.c" 1
 Action()
@@ -2689,6 +2689,26 @@ web_reg_find("Text/IC=We hope we can meet all your current and future travel nee
  
 
 	lr_end_transaction("Signup",2);
+	
+	lr_start_transaction("new_user");
+	
+	
+	web_reg_find("Text/IC=Since user has already logged on",
+			"LAST");
+	 
+	web_url("button_next.gif", 
+		"URL=http://127.0.0.1:1080/cgi-bin/welcome.pl?page=menus", 
+		"TargetFrame=body", 
+		"Resource=0", 
+		"RecContentType=text/html", 
+		"Referer=http://127.0.0.1:1080/cgi-bin/login.pl", 
+		"Snapshot=t5.inf", 
+		"Mode=HTML", 
+		"LAST");
+	
+	
+	lr_end_transaction("new_user",2);
+	
 	lr_start_transaction("Logout");
 	web_reg_find("Text/IC= A Session ID has been created and loaded into a cookie called MSO",
 		"LAST");
@@ -2709,12 +2729,12 @@ web_reg_find("Text/IC=We hope we can meet all your current and future travel nee
 
 	return 0;
 }
-# 5 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_5_creating_new_user\\\\combined_UC_5_Creating_New_User.c" 2
+# 5 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_5_creating_new_user\\\\combined_UC_5_Creating_New_User.c" 2
 
 # 1 "vuser_end.c" 1
 vuser_end()
 {
 	return 0;
 }
-# 6 "c:\\users\\evgenijsvetasev\\desktop\\uc_1v3\\uc_5_creating_new_user\\\\combined_UC_5_Creating_New_User.c" 2
+# 6 "c:\\users\\evgenijsvetasev\\desktop\\github\\ibs_lr_svetashev\\\361\352\360\350\357\362\373\\uc_5_creating_new_user\\\\combined_UC_5_Creating_New_User.c" 2
 
