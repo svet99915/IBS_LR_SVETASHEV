@@ -104,9 +104,11 @@ Action()
 	
 	
 //	
-//		web_reg_find("Text/IC= scheduled flights",
-//		LAST);
-	
+		web_reg_find("Text/IC= scheduled flights",
+		LAST);
+	web_reg_find("Fail=Found",
+		"Text/IC={flightID1}",
+		LAST);
 
 	
 	web_submit_form("itinerar" 
@@ -119,9 +121,7 @@ Action()
 		"Name=removeFlights.y", "Value=7", ENDITEM, 
 		LAST);
 	
-	web_reg_find("Fail=Found",
-		"Text/IC={flightID1}",
-		LAST);
+	
 	
 	
 	
