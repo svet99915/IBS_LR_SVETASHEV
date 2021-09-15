@@ -1,0 +1,81 @@
+[
+    {
+        "actionName": "Action",
+        "steps": [
+            {
+                "stepId": "STEP26",
+                "stepName": "Url: webtours",
+                "infFile": "t2.inf",
+                "time": 1631467278817
+            },
+            {
+                "stepId": "STEP27",
+                "stepName": "Submit Data: login.pl",
+                "infFile": "t3.inf",
+                "time": 1631467279178
+            },
+            {
+                "stepId": "STEP28",
+                "stepName": "Url: Itinerary Button",
+                "infFile": "t4.inf",
+                "time": 1631467281307
+            },
+            {
+                "stepId": "STEP29",
+                "stepName": "Submit Form: itinerary.pl",
+                "infFile": "t5.inf",
+                "time": 1631467283630
+            },
+            {
+                "stepId": "STEP30",
+                "stepName": "Url: welcome.pl",
+                "infFile": "t6.inf",
+                "time": 1631467284011
+            }
+        ],
+        "transactions": [
+            {
+                "transactionName": "Entry",
+                "rawStartTime": 1631467278270,
+                "rawEndTime": 1631467278822,
+                "thinkTime": 0.0,
+                "wastedTime": 0.04138970375061035
+            },
+            {
+                "transactionName": "Login",
+                "rawStartTime": 1631467278854,
+                "rawEndTime": 1631467279183,
+                "thinkTime": 0.0,
+                "wastedTime": 0.020520448684692384
+            },
+            {
+                "transactionName": "Delete_Ticket_Button",
+                "rawStartTime": 1631467279213,
+                "rawEndTime": 1631467281343,
+                "thinkTime": 0.0,
+                "wastedTime": 0.05949592590332031
+            },
+            {
+                "transactionName": "Delete_Ticket",
+                "rawStartTime": 1631467281369,
+                "rawEndTime": 1631467283635,
+                "thinkTime": 0.0,
+                "wastedTime": 0.059563398361206058
+            },
+            {
+                "transactionName": "Logout",
+                "rawStartTime": 1631467283668,
+                "rawEndTime": 1631467284025,
+                "thinkTime": 0.0,
+                "wastedTime": 0.014457225799560547
+            },
+            {
+                "transactionName": "UC_1_4v2_Delete_Ticket_megatransaction",
+                "rawStartTime": 1631467278254,
+                "rawEndTime": 1631467284041,
+                "thinkTime": 0.0,
+                "wastedTime": 0.19542670249938966
+            }
+        ]
+    }
+]

@@ -1,0 +1,443 @@
+Action.c(79):       </TD>\n
+Action.c(79):       <TD width="5%" >.<br/>.<br/>.<br/>.</TD>\n
+Action.c(79):       <TD width="45%" valign=top><b>Invoice sent to:</b><br/>\n
+Action.c(79):           <center>\n
+Action.c(79):           <Table width="80%" cellspacing="0" > <tr> <td>\n
+Action.c(79):               Jango Fett\n
+Action.c(79):     <br/>\n
+Action.c(79):               address8<br/>\n
+Action.c(79):               address08<br/>\n
+Action.c(79):               <br/>\n
+Action.c(79):               Total Charge: $ 4921 <BR/> (CC: x-1580)\n
+Action.c(79):           </td> </tr> </table>\n
+Action.c(79):           </center>\n
+Action.c(79):       </TD>\n
+Action.c(79):     </TR>\n
+Action.c(79):     <TR bgcolor="#EFF2F7">\n
+Action.c(79):       <TD COLSPAN="3">\n
+Action.c(79):       <b>Flight Details:</b><BR/>  <center>\n
+Action.c(79):       09/14/2021\n
+Action.c(79):      :  1pm : Flight 901 leaves Zurich  for Denver.<br>  </center>\n
+Action.c(79):       </TD>\n
+Action.c(79):     </TR>\n
+Action.c(79):     \n
+Action.c(79):     <TR bgcolor="#EFF2F7">\n
+Action.c(79):       <TD COLSPAN="4">\n
+Action.c(79):       <hr/>\n
+Action.c(79):       </TD>\n
+Action.c(79):     </TR>\n
+Action.c(79):     <TR>\n
+Action.c(79):        <TD align="center" COLSPAN="4">\n
+Action.c(79):        <b>A total of 495 scheduled flights.</font></b>\n
+Action.c(79):        </TD>\n
+Action.c(79):     </TR>\n
+Action.c(79):     </TABLE>\n
+Action.c(79):     \n
+Action.c(79):     <TABLE WIDTH="87%" BORDER="0" CELLSPACING="0">\n
+Action.c(79):     <TR>\n
+Action.c(79):     <TD align="left" width="50%" >\n
+Action.c(79):     <input type="image" name="removeFlights" src="/WebTours/images/cancelreservation.gif" bord
+Action.c(79):     er="0" /></TD>\n
+Action.c(79):     <TD align="right" width="50%" >\n
+Action.c(79):     <input type="image" name="removeAllFlights" src="/WebTours/images/cancelallreservations.gi
+Action.c(79):     f" border="0" /></TD>\n
+Action.c(79):     </TABLE>\n
+Action.c(79):     \n
+Action.c(79):     <div><input type="hidden" name=".cgifields" value="127"  /><input type="hidden" name=".cgi
+Action.c(79):     fields" value="32"  /><input type="hidden" name=".cgifields" value="276"  /><input type="h
+Action.c(79):     idden" name=".cgifields" value="90"  /><input type="hidden" name=".cgifields" value="443" 
+Action.c(79):      /><input type="hidden" name=".cgifields" value="206"  /><input type="hidden" name=".cgifi
+Action.c(79):     elds" value="118"  /><input type="hidden" name=".cgifields" value="71"  /><input type="hid
+Action.c(79):     den" name=".cgifields" value="102"  /><input type="hidden" name=".cgifields" value="358"  
+Action.c(79):     /><input type="hidden" name=".cgifields" value="331"  /><input type="hidden" name=".cgifie
+Action.c(79):     lds" value="16"  /><input type="hidden" name=".cgifields" value="55"  /><input type="hidde
+Action.c(79):     n" name=".cgifields" value="84"  /><input type="hidden" name=".cgifields" value="233"  /><
+Action.c(79):     input type="hidden" name=".cgifields" value="437"  /><input type="hidden" name=".cgifields
+Action.c(79):     " value="463"  /><input type="hidden" name=".cgifields" value="259"  /><input type="hidden
+Action.c(79):     " name=".cgifields" value="194"  /><input type="hidden" name=".cgifields" value="57"  /><i
+Action.c(79):     nput type="hidden" name=".cgifields" value="458"  /><input type="hidden" name=".cgifields"
+Action.c(79):      value="424"  /><input type="hidden" name=".cgifields" value="368"  /><input type="hidden"
+Action.c(79):      name=".cgifields" value="451"  /><input type="hidden" name=".cgifields" value="220"  /><i
+Action.c(79):     nput type="hidden" name=".cgifields" value="454"  /><input type="hidden" name=".cgifields"
+Action.c(79):      value="316"  /><input type="hidden" name=".cgifields" value="163"  /><input type="hidden"
+Action.c(79):      name=".cgifields" value="395"  /><input type="hidden" name=".cgifields" value="89"  /><in
+Action.c(79):     put type="hidden" name=".cgifields" value="175"  /><input type="hidden" name=".cgifields" 
+Action.c(79):     value="31"  /><input type="hidden" name=".cgifields" value="35"  /><input type="hidden" na
+Action.c(79):     me=".cgifields" value="11"  /><input type="hidden" name=".cgifields" value="492"  /><input
+Action.c(79):      type="hidden" name=".cgifields" value="347"  /><input type="hidden" name=".cgifields" val
+Action.c(79):     ue="208"  /><input type="hidden" name=".cgifields" value="434"  /><input type="hidden" nam
+Action.c(79):     e=".cgifields" value="93"  /><input type="hidden" name=".cgifields" value="292"  /><input 
+Action.c(79):     type="hidden" name=".cgifields" value="378"  /><input type="hidden" name=".cgifields" valu
+Action.c(79):     e="325"  /><input type="hidden" name=".cgifields" value="29"  /><input type="hidden" name=
+Action.c(79):     ".cgifields" value="350"  /><input type="hidden" name=".cgifields" value="291"  /><input t
+Action.c(79):     ype="hidden" name=".cgifields" value="374"  /><input type="hidden" name=".cgifields" value
+Action.c(79):     ="442"  /><input type="hidden" name=".cgifields" value="199"  /><input type="hidden" name=
+Action.c(79):     ".cgifields" value="114"  /><input type="hidden" name=".cgifields" value="429"  /><input t
+Action.c(79):     ype="hidden" name=".cgifields" value="226"  /><input type="hidden" name=".cgifields" value
+Action.c(79):     ="58"  /><input type="hidden" name=".cgifields" value="211"  /><input type="hidden" name="
+Action.c(79):     .cgifields" value="153"  /><input type="hidden" name=".cgifields" value="15"  /><input typ
+Action.c(79):     e="hidden" name=".cgifields" value="431"  /><input type="hidden" name=".cgifields" value="
+Action.c(79):     382"  /><input type="hidden" name=".cgifields" value="337"  /><input type="hidden" name=".
+Action.c(79):     cgifields" value="409"  /><input type="hidden" name=".cgifields" value="101"  /><input typ
+Action.c(79):     e="hidden" name=".cgifields" value="73"  /><input type="hidden" name=".cgifields" value="3
+Action.c(79):     40"  /><input type="hidden" name=".cgifields" value="76"  /><input type="hidden" name=".cg
+Action.c(79):     ifields" value="311"  /><input type="hidden" name=".cgifields" value="62"  /><input type="
+Action.c(79):     hidden" name=".cgifields" value="67"  /><input type="hidden" name=".cgifields" value="241"
+Action.c(79):       /><input type="hidden" name=".cgifields" value="198"  /><input type="hidden" name=".cgif
+Action.c(79):     ields" value="139"  /><input type="hidden" name=".cgifields" value="489"  /><input type="h
+Action.c(79):     idden" name=".cgifields" value="389"  /><input type="hidden" name=".cgifields" value="129"
+Action.c(79):       /><input type="hidden" name=".cgifields" value="327"  /><input type="hidden" name=".cgif
+Action.c(79):     ields" value="495"  /><input type="hidden" name=".cgifields" value="320"  /><input type="h
+Action.c(79):     idden" name=".cgifields" value="418"  /><input type="hidden" name=".cgifields" value="280"
+Action.c(79):       /><input type="hidden" name=".cgifields" value="273"  /><input type="hidden" name=".cgif
+Action.c(79):     ields" value="471"  /><input type="hidden" name=".cgifields" value="236"  /><input type="h
+Action.c(79):     idden" name=".cgifields" value="465"  /><input type="hidden" name=".cgifields" value="361"
+Action.c(79):       /><input type="hidden" name=".cgifields" value="249"  /><input type="hidden" name=".cgif
+Action.c(79):     ields" value="218"  /><input type="hidden" name=".cgifields" value="202"  /><input type="h
+Action.c(79):     idden" name=".cgifields" value="168"  /><input type="hidden" name=".cgifields" value="184"
+Action.c(79):       /><input type="hidden" name=".cgifields" value="135"  /><input type="hidden" name=".cgif
+Action.c(79):     ields" value="14"  /><input type="hidden" name=".cgifields" value="348"  /><input type="hi
+Action.c(79):     dden" name=".cgifields" value="145"  /><input type="hidden" name=".cgifields" value="49"  
+Action.c(79):     /><input type="hidden" name=".cgifields" value="178"  /><input type="hidden" name=".cgifie
+Action.c(79):     lds" value="24"  /><input type="hidden" name=".cgifields" value="285"  /><input type="hidd
+Action.c(79):     en" name=".cgifields" value="140"  /><input type="hidden" name=".cgifields" value="124"  /
+Action.c(79):     ><input type="hidden" name=".cgifields" value="104"  /><input type="hidd
+Action.c(79): Found resource "http://127.0.0.1:1080/WebTours/images/cancelreservation.gif" in HTML "http://127.0.0.1:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+Action.c(79): Found resource "http://127.0.0.1:1080/WebTours/images/cancelallreservations.gif" in HTML "http://127.0.0.1:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26659]
+Action.c(79): t=263005ms: 8-byte chunked response overhead for "http://127.0.0.1:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=634)
+Action.c(79):     \r\n
+Action.c(79):     1000\r\n
+Action.c(79): t=263005ms: 8-byte chunked response overhead for "http://127.0.0.1:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=634)
+Action.c(79):     \r\n
+Action.c(79):     1000\r\n
+Action.c(79): t=263005ms: 8-byte chunked response overhead for "http://127.0.0.1:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=634)
+Action.c(79):     \r\n
+Action.c(79):     1000\r\n
+Action.c(79): t=263005ms: 12263-byte chunked response body for "http://127.0.0.1:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=634)
+Action.c(79):     en" name=".cgifields" value="131"  /><input type="hidden" name=".cgifields" value="412"  /
+Action.c(79):     ><input type="hidden" name=".cgifields" value="181"  /><input type="hidden" name=".cgifiel
+Action.c(79):     ds" value="385"  /><input type="hidden" name=".cgifields" value="234"  /><input type="hidd
+Action.c(79):     en" name=".cgifields" value="314"  /><input type="hidden" name=".cgifields" value="307"  /
+Action.c(79):     ><input type="hidden" name=".cgifields" value="154"  /><input type="hidden" name=".cgifiel
+Action.c(79):     ds" value="23"  /><input type="hidden" name=".cgifields" value="388"  /><input type="hidde
+Action.c(79):     n" name=".cgifields" value="364"  /><input type="hidden" name=".cgifields" value="96"  /><
+Action.c(79):     input type="hidden" name=".cgifields" value="355"  /><input type="hidden" name=".cgifields
+Action.c(79):     " value="479"  /><input type="hidden" name=".cgifields" value="159"  /><input type="hidden
+Action.c(79):     " name=".cgifields" value="486"  /><input type="hidden" name=".cgifields" value="326"  /><
+Action.c(79):     input type="hidden" name=".cgifields" value="160"  /><input type="hidden" name=".cgifields
+Action.c(79):     " value="47"  /><input type="hidden" name=".cgifields" value="367"  /><input type="hidden"
+Action.c(79):      name=".cgifields" value="8"  /><input type="hidden" name=".cgifields" value="98"  /><inpu
+Action.c(79):     t type="hidden" name=".cgifields" value="335"  /><input type="hidden" name=".cgifields" va
+Action.c(79):     lue="37"  /><input type="hidden" name=".cgifields" value="43"  /><input type="hidden" name
+Action.c(79):     =".cgifields" value="270"  /><input type="hidden" name=".cgifields" value="485"  /><input 
+Action.c(79):     type="hidden" name=".cgifields" value="195"  /><input type="hidden" name=".cgifields" valu
+Action.c(79):     e="5"  /><input type="hidden" name=".cgifields" value="391"  /><input type="hidden" name="
+Action.c(79):     .cgifields" value="21"  /><input type="hidden" name=".cgifields" value="288"  /><input typ
+Action.c(79):     e="hidden" name=".cgifields" value="193"  /><input type="hidden" name=".cgifields" value="
+Action.c(79):     460"  /><input type="hidden" name=".cgifields" value="119"  /><input type="hidden" name=".
+Action.c(79):     cgifields" value="453"  /><input type="hidden" name=".cgifields" value="324"  /><input typ
+Action.c(79):     e="hidden" name=".cgifields" value="180"  /><input type="hidden" name=".cgifields" value="
+Action.c(79):     244"  /><input type="hidden" name=".cgifields" value="162"  /><input type="hidden" name=".
+Action.c(79):     cgifields" value="433"  /><input type="hidden" name=".cgifields" value="351"  /><input typ
+Action.c(79):     e="hidden" name=".cgifields" value="410"  /><input type="hidden" name=".cgifields" value="
+Action.c(79):     246"  /><input type="hidden" name=".cgifields" value="240"  /><input type="hidden" name=".
+Action.c(79):     cgifields" value="74"  /><input type="hidden" name=".cgifields" value="334"  /><input type
+Action.c(79):     ="hidden" name=".cgifields" value="440"  /><input type="hidden" name=".cgifields" value="4
+Action.c(79):     88"  /><input type="hidden" name=".cgifields" value="61"  /><input type="hidden" name=".cg
+Action.c(79):     ifields" value="230"  /><input type="hidden" name=".cgifields" value="299"  /><input type=
+Action.c(79):     "hidden" name=".cgifields" value="115"  /><input type="hidden" name=".cgifields" value="43
+Action.c(79):     0"  /><input type="hidden" name=".cgifields" value="377"  /><input type="hidden" name=".cg
+Action.c(79):     ifields" value="447"  /><input type="hidden" name=".cgifields" value="103"  /><input type=
+Action.c(79):     "hidden" name=".cgifields" value="201"  /><input type="hidden" name=".cgifields" value="37
+Action.c(79):     9"  /><input type="hidden" name=".cgifields" value="423"  /><input type="hidden" name=".cg
+Action.c(79):     ifields" value="415"  /><input type="hidden" name=".cgifields" value="113"  /><input type=
+Action.c(79):     "hidden" name=".cgifields" value="152"  /><input type="hidden" name=".cgifields" value="18
+Action.c(79):     9"  /><input type="hidden" name=".cgifields" value="452"  /><input type="hidden" name=".cg
+Action.c(79):     ifields" value="342"  /><input type="hidden" name=".cgifields" value="295"  /><input type=
+Action.c(79):     "hidden" name=".cgifields" value="266"  /><input type="hidden" name=".cgifields" value="91
+Action.c(79):     "  /><input type="hidden" name=".cgifields" value="480"  /><input type="hidden" name=".cgi
+Action.c(79):     fields" value="341"  /><input type="hidden" name=".cgifields" value="438"  /><input type="
+Action.c(79):     hidden" name=".cgifields" value="107"  /><input type="hidden" name=".cgifields" value="467
+Action.c(79):     "  /><input type="hidden" name=".cgifields" value="87"  /><input type="hidden" name=".cgif
+Action.c(79):     ields" value="481"  /><input type="hidden" name=".cgifields" value="474"  /><input type="h
+Action.c(79):     idden" name=".cgifields" value="174"  /><input type="hidden" name=".cgifields" value="77" 
+Action.c(79):      /><input type="hidden" name=".cgifields" value="444"  /><input type="hidden" name=".cgifi
+Action.c(79):     elds" value="214"  /><input type="hidden" name=".cgifields" value="422"  /><input type="hi
+Action.c(79):     dden" name=".cgifields" value="221"  /><input type="hidden" name=".cgifields" value="39"  
+Action.c(79):     /><input type="hidden" name=".cgifields" value="64"  /><input type="hidden" name=".cgifiel
+Action.c(79):     ds" value="97"  /><input type="hidden" name=".cgifields" value="417"  /><input type="hidde
+Action.c(79):     n" name=".cgifields" value="12"  /><input type="hidden" name=".cgifields" value="41"  /><i
+Action.c(79):     nput type="hidden" name=".cgifields" value="52"  /><input type="hidden" name=".cgifields" 
+Action.c(79):     value="312"  /><input type="hidden" name=".cgifields" value="302"  /><input type="hidden" 
+Action.c(79):     name=".cgifields" value="229"  /><input type="hidden" name=".cgifields" value="45"  /><inp
+Action.c(79):     ut type="hidden" name=".cgifields" value="405"  /><input type="hidden" name=".cgifields" v
+Action.c(79):     alue="260"  /><input type="hidden" name=".cgifields" value="237"  /><input type="hidden" n
+Action.c(79):     ame=".cgifields" value="370"  /><input type="hidden" name=".cgifields" value="309"  /><inp
+Action.c(79):     ut type="hidden" name=".cgifields" value="188"  /><input type="hidden" name=".cgifields" v
+Action.c(79):     alue="68"  /><input type="hidden" name=".cgifields" value="402"  /><input type="hidden" na
+Action.c(79):     me=".cgifields" value="315"  /><input type="hidden" name=".cgifields" value="1"  /><input 
+Action.c(79):     type="hidden" name=".cgifields" value="136"  /><input type="hidden" name=".cgifields" valu
+Action.c(79):     e="116"  /><input type="hidden" name=".cgifields" value="416"  /><input type="hidden" name
+Action.c(79):     =".cgifields" value="338"  /><input type="hidden" name=".cgifields" value="144"  /><input 
+Action.c(79):     type="hidden" name=".cgifields" value="380"  /><input type="hidden" name=".cgifields" valu
+Action.c(79):     e="100"  /><input type="hidden" name=".cgifields" value="300"  /><input type="hidden" name
+Action.c(79):     =".cgifields" value="222"  /><input type="hidden" name=".cgifields" value="25"  /><input t
+Action.c(79):     ype="hidden" name=".cgifields" value="286"  /><input type="hidden" name=".cgifields" value
+Action.c(79):     ="120"  /><input type="hidden" name=".cgifields" value="83"  /><input type="hidden" name="
+Action.c(79):     .cgifields" value="484"  /><input type="hidden" name=".cgifields" value="381"  /><input ty
+Action.c(79):     pe="hidden" name=".cgifields" value="305"  /><input type="hidden" name=".cgifields" value=
+Action.c(79):     "308"  /><input type="hidden" name=".cgifields" value="392"  /><input type="hidden" name="
+Action.c(79):     .cgifields" value="254"  /><input type="hidden" name=".cgifields" value="177"  /><input ty
+Action.c(79):     pe="hidden" name=".cgifields" value="373"  /><input type="hidden" name=".cgifields" value=
+Action.c(79):     "217"  /><input type="hidden" name=".cgifields" value="328"  /><input type="hidden" name="
+Action.c(79):     .cgifields" value="239"  /><input type="hidden" name=".cgifields" value="122"  /><input ty
+Action.c(79):     pe="hidden" name=".cgifields" value="143"  /><input type="hidden" name=".cgifields" value=
+Action.c(79):     "464"  /><input type="hidden" name=".cgifields" value="281"  /><input type="hidden" name="
+Action.c(79):     .cgifields" value="269"  /><input type="hidden" name=".cgifields" value="205"  /><input ty
+Action.c(79):     pe="hidden" name=".cgifields" value="158"  /><input type="hidden" name=".cgifields" value=
+Action.c(79):     "42"  /><input type="hidden" name=".cgifields" value="22"  /><input type="hidden" name=".c
+Action.c(79):     gifields" value="363"  /><input type="hidden" name=".cgifields" value="46"  /><input type=
+Action.c(79):     "hidden" name=".cgifields" value="399"  /><input type="hidden" name=".cgifields" value="23
+Action.c(79):     5"  /><input type="hidden" name=".cgifields" value="301"  /><input type="hidden" name=".cg
+Action.c(79):     ifields" value="6"  /><input type="hidden" name=".cgifields" value="436"  /><input type="h
+Action.c(79):     idden" name=".cgifields" value="36"  /><input type="hidden" name=".cgifields" value="213" 
+Action.c(79):      /><input type="hidden" name=".cgifields" value="183"  /><input type="hidden" name=".cgifi
+Action.c(79):     elds" value="94"  /><input type="hidden" name=".cgifields" value="51"  /><input type="hidd
+Action.c(79):     en" name=".cgifields" value="472"  /><input type="hidden" name=".cgifields" value="456"  /
+Action.c(79):     ><input type="hidden" name=".cgifields" value="439"  /><input type="hidden" name=".cgifiel
+Action.c(79):     ds" value="362"  /><input type="hidden" name=".cgifields" value="317"  /><input type="hidd
+Action.c(79):     en" name=".cgifields" value="296"  /><input type="hidden" name=".cgifields" value="265"  /
+Action.c(79):     ><input type="hidden" name=".cgifields" value="411"  /><input type="hidden" name=".cgifiel
+Action.c(79):     ds" value="169"  /><input type="hidden" name=".cgifields" value="132"  /><input type="hidd
+Action.c(79):     en" name=".cgifields" value="493"  /><input type="hidden" name=".cgifields" value="171"  /
+Action.c(79):     ><input type="hidden" name=".cgifields" value="478"  /><input type="hidden" name=".cgifiel
+Action.c(79):     ds" value="398"  /><input type="hidden" name=".cgifields" value="384"  /><input type="hidd
+Action.c(79):     en" name=".cgifields" value="386"  /><input type="hidden" name=".cgifields" value="407"  /
+Action.c(79):     ><input type="hidden" name=".cgifields" value="445"  /><input type="hidden" name=".cgifiel
+Action.c(79):     ds" value="200"  /><input type="hidden" name=".cgifields" value="18"  /><input type="hidde
+Action.c(79):     n" name=".cgifields" value="376"  /><input type="hidden" name=".cgifields" value="366"  />
+Action.c(79):     <input type="hidden" name=".cgifields" value="125"  /><input type="hidden" name=".cgifield
+Action.c(79):     s" value="329"  /><input type="hidden" name=".cgifields" value="44"  /><input type="hidden
+Action.c(79):     " name=".cgifields" value="27"  /><input type="hidden" name=".cgifields" value="272"  /><i
+Action.c(79):     nput type="hidden" name=".cgifields" value="161"  /><input type="hidden" name=".cgifields"
+Action.c(79):      value="190"  /><input type="hidden" name=".cgifields" value="298"  /><input type="hidden"
+Action.c(79):      name=".cgifields" value="95"  /><input type="hidden" name=".cgifields" value="400"  /><in
+Action.c(79):     put type="hidden" name=".cgifields" value="313"  /><input type="hidden" name=".cgifields" 
+Action.c(79):     value="20"  /><input type="hidden" name=".cgifields" value="109"  /><input type="hidden" n
+Action.c(79):     ame=".cgifields" value="231"  /><input type="hidden" name=".cgifields" value="243"  /><inp
+Action.c(79):     ut type="hidden" name=".cgifields" value="151"  /><input type="hidden" name=".cgifields" v
+Action.c(79):     alue="148"  /><input type="hidden" name=".cgifields" value="343"  /><input type="hidden" n
+Action.c(79):     ame=".cgifields" value="468"  /><input type="hidden" name=".cgifields" value="287"  /><inp
+Action.c(79):     ut type="hidden" name=".cgifields" value="475"  /><input type="hidden" name=".cgifields" v
+Action.c(79):     alue="441"  /><input type="hidden" name=".cgifields" value="78"  /><input type="hidden" na
+Action.c(79):     me=".cgifields" value="413"  /><input type="hidden" name=".cgifields" value="397"  /><inpu
+Action.c(79):     t type="hidden" name=".cgifields" value="294"  /><input type="hidden" name=".cgifields" va
+Action.c(79):     lue="349"  /><input type="hidden" name=".cgifields" value="106"  /><input type="hidden" na
+Action.c(79):     me=".cgifields" value="275"  /><input type="hidden" name=".cgifields" value="157"  /><inpu
+Action.c(79):     t type="hidden" name=".cgifields" value="65"  /><input type="hidden" name=".cgifields" val
+Action.c(79):     ue="197"  /><input type="hidden" name=".cgifields" value="203"  /><input type="hidden" nam
+Action.c(79):     e=".cgifields" value="261"  /><input type="hidden" name=".cgifields" value="138"  /><input
+Action.c(79):      type="hidden" name=".cgifields" value="81"  /><input type="hidden" name=".cgifields" valu
+Action.c(79):     e="137"  /><input type="hidden" name=".cgifields" value="60"  /><input type="hidden" name=
+Action.c(79):     ".cgifields" value="459"  /><input type="hidden" name=".cgifields" value="432"  /><input t
+Action.c(79):     ype="hidden" name=".cgifields" value="321"  /><input type="hidden" name=".cgifields" value
+Action.c(79):     ="284"  /><input type="hidden" name=".cgifields" value="86"  /><input type="hidden" name="
+Action.c(79):     .cgifields" value="247"  /><input type="hidden" name=".cgifields" value="371"  /><input ty
+Action.c(79):     pe="hidden" name=".cgifields" value="204"  /><input type="hidden" name=".cgifields" value=
+Action.c(79):     "289"  /><input type="hidden" name=".cgifields" value="165"  /><input type="hidden" name="
+Action.c(79):     .cgifields" value="346"  /><input type="hidden" name=".cgifields" value="17"  /><input typ
+Action.c(79):     e="hidden" name=".cgifields" value="2"  /><input type="hidden" name=".cgifields" value="43
+Action.c(79):     5"  /><input type="hidden" name=".cgifields" value="427"  /><input type="hidden" name=".cg
+Action.c(79):     ifields" value="401"  /><input type="hidden" name=".cgifields" value="186"  /><input type=
+Action.c(79):     "hidden" name=".cgifields" value="82"  /><input type="hidden" name=".cgifields" value="110
+Action.c(79):     "  /><input type="hidde
+Action.c(79): t=263007ms: 8-byte chunked response overhead for "http://127.0.0.1:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=634)
+Action.c(79):     \r\n
+Action.c(79):     1000\r\n
+Action.c(79): t=263007ms: 7-byte chunked response overhead for "http://127.0.0.1:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=634)
+Action.c(79):     \r\n
+Action.c(79):     ed2\r\n
+Action.c(79): t=263007ms: 7-byte chunked response overhead for "http://127.0.0.1:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=634)
+Action.c(79):     \r\n
+Action.c(79):     0\r\n
+Action.c(79):     \r\n
+Action.c(79): t=263007ms: 9113-byte chunked response body for "http://127.0.0.1:1080/cgi-bin/itinerary.pl" (RelFrameId=1.2, Internal ID=634)
+Action.c(79):     n" name=".cgifields" value="147"  /><input type="hidden" name=".cgifields" value="333"  />
+Action.c(79):     <input type="hidden" name=".cgifields" value="339"  /><input type="hidden" name=".cgifield
+Action.c(79):     s" value="228"  /><input type="hidden" name=".cgifields" value="323"  /><input type="hidde
+Action.c(79):     n" name=".cgifields" value="268"  /><input type="hidden" name=".cgifields" value="345"  />
+Action.c(79):     <input type="hidden" name=".cgifields" value="69"  /><input type="hidden" name=".cgifields
+Action.c(79):     " value="112"  /><input type="hidden" name=".cgifields" value="319"  /><input type="hidden
+Action.c(79):     " name=".cgifields" value="172"  /><input type="hidden" name=".cgifields" value="191"  /><
+Action.c(79):     input type="hidden" name=".cgifields" value="224"  /><input type="hidden" name=".cgifields
+Action.c(79):     " value="187"  /><input type="hidden" name=".cgifields" value="404"  /><input type="hidden
+Action.c(79):     " name=".cgifields" value="223"  /><input type="hidden" name=".cgifields" value="446"  /><
+Action.c(79):     input type="hidden" name=".cgifields" value="282"  /><input type="hidden" name=".cgifields
+Action.c(79):     " value="420"  /><input type="hidden" name=".cgifields" value="262"  /><input type="hidden
+Action.c(79):     " name=".cgifields" value="79"  /><input type="hidden" name=".cgifields" value="121"  /><i
+Action.c(79):     nput type="hidden" name=".cgifields" value="212"  /><input type="hidden" name=".cgifields"
+Action.c(79):      value="352"  /><input type="hidden" name=".cgifields" value="344"  /><input type="hidden"
+Action.c(79):      name=".cgifields" value="494"  /><input type="hidden" name=".cgifields" value="487"  /><i
+Action.c(79):     nput type="hidden" name=".cgifields" value="126"  /><input type="hidden" name=".cgifields"
+Action.c(79):      value="238"  /><input type="hidden" name=".cgifields" value="426"  /><input type="hidden"
+Action.c(79):      name=".cgifields" value="251"  /><input type="hidden" name=".cgifields" value="369"  /><i
+Action.c(79):     nput type="hidden" name=".cgifields" value="253"  /><input type="hidden" name=".cgifields"
+Action.c(79):      value="279"  /><input type="hidden" name=".cgifields" value="176"  /><input type="hidden"
+Action.c(79):      name=".cgifields" value="448"  /><input type="hidden" name=".cgifields" value="209"  /><i
+Action.c(79):     nput type="hidden" name=".cgifields" value="483"  /><input type="hidden" name=".cgifields"
+Action.c(79):      value="357"  /><input type="hidden" name=".cgifields" value="216"  /><input type="hidden"
+Action.c(79):      name=".cgifields" value="256"  /><input type="hidden" name=".cgifields" value="372"  /><i
+Action.c(79):     nput type="hidden" name=".cgifields" value="117"  /><input type="hidden" name=".cgifields"
+Action.c(79):      value="170"  /><input type="hidden" name=".cgifields" value="33"  /><input type="hidden" 
+Action.c(79):     name=".cgifields" value="63"  /><input type="hidden" name=".cgifields" value="428"  /><inp
+Action.c(79):     ut type="hidden" name=".cgifields" value="455"  /><input type="hidden" name=".cgifields" v
+Action.c(79):     alue="7"  /><input type="hidden" name=".cgifields" value="80"  /><input type="hidden" name
+Action.c(79):     =".cgifields" value="26"  /><input type="hidden" name=".cgifields" value="227"  /><input t
+Action.c(79):     ype="hidden" name=".cgifields" value="336"  /><input type="hidden" name=".cgifields" value
+Action.c(79):     ="457"  /><input type="hidden" name=".cgifields" value="99"  /><input type="hidden" name="
+Action.c(79):     .cgifields" value="72"  /><input type="hidden" name=".cgifields" value="179"  /><input typ
+Action.c(79):     e="hidden" name=".cgifields" value="383"  /><input type="hidden" name=".cgifields" value="
+Action.c(79):     264"  /><input type="hidden" name=".cgifields" value="255"  /><input type="hidden" name=".
+Action.c(79):     cgifields" value="297"  /><input type="hidden" name=".cgifields" value="359"  /><input typ
+Action.c(79):     e="hidden" name=".cgifields" value="182"  /><input type="hidden" name=".cgifields" value="
+Action.c(79):     108"  /><input type="hidden" name=".cgifields" value="277"  /><input type="hidden" name=".
+Action.c(79):     cgifields" value="92"  /><input type="hidden" name=".cgifields" value="462"  /><input type
+Action.c(79):     ="hidden" name=".cgifields" value="414"  /><input type="hidden" name=".cgifields" value="2
+Action.c(79):     32"  /><input type="hidden" name=".cgifields" value="477"  /><input type="hidden" name=".c
+Action.c(79):     gifields" value="10"  /><input type="hidden" name=".cgifields" value="225"  /><input type=
+Action.c(79):     "hidden" name=".cgifields" value="330"  /><input type="hidden" name=".cgifields" value="14
+Action.c(79):     2"  /><input type="hidden" name=".cgifields" value="207"  /><input type="hidden" name=".cg
+Action.c(79):     ifields" value="263"  /><input type="hidden" name=".cgifields" value="394"  /><input type=
+Action.c(79):     "hidden" name=".cgifields" value="167"  /><input type="hidden" name=".cgifields" value="48
+Action.c(79):     "  /><input type="hidden" name=".cgifields" value="360"  /><input type="hidden" name=".cgi
+Action.c(79):     fields" value="419"  /><input type="hidden" name=".cgifields" value="133"  /><input type="
+Action.c(79):     hidden" name=".cgifields" value="290"  /><input type="hidden" name=".cgifields" value="123
+Action.c(79):     "  /><input type="hidden" name=".cgifields" value="149"  /><input type="hidden" name=".cgi
+Action.c(79):     fields" value="304"  /><input type="hidden" name=".cgifields" value="50"  /><input type="h
+Action.c(79):     idden" name=".cgifields" value="476"  /><input type="hidden" name=".cgifields" value="210"
+Action.c(79):       /><input type="hidden" name=".cgifields" value="406"  /><input type="hidden" name=".cgif
+Action.c(79):     ields" value="396"  /><input type="hidden" name=".cgifields" value="258"  /><input type="h
+Action.c(79):     idden" name=".cgifields" value="482"  /><input type="hidden" name=".cgifields" value="173"
+Action.c(79):       /><input type="hidden" name=".cgifields" value="393"  /><input type="hidden" name=".cgif
+Action.c(79):     ields" value="56"  /><input type="hidden" name=".cgifields" value="66"  /><input type="hid
+Action.c(79):     den" name=".cgifields" value="449"  /><input type="hidden" name=".cgifields" value="19"  /
+Action.c(79):     ><input type="hidden" name=".cgifields" value="293"  /><input type="hidden" name=".cgifiel
+Action.c(79):     ds" value="54"  /><input type="hidden" name=".cgifields" value="365"  /><input type="hidde
+Action.c(79):     n" name=".cgifields" value="274"  /><input type="hidden" name=".cgifields" value="306"  />
+Action.c(79):     <input type="hidden" name=".cgifields" value="470"  /><input type="hidden" name=".cgifield
+Action.c(79):     s" value="70"  /><input type="hidden" name=".cgifields" value="322"  /><input type="hidden
+Action.c(79):     " name=".cgifields" value="469"  /><input type="hidden" name=".cgifields" value="353"  /><
+Action.c(79):     input type="hidden" name=".cgifields" value="166"  /><input type="hidden" name=".cgifields
+Action.c(79):     " value="375"  /><input type="hidden" name=".cgifields" value="88"  /><input type="hidden"
+Action.c(79):      name=".cgifields" value="30"  /><input type="hidden" name=".cgifields" value="141"  /><in
+Action.c(79):     put type="hidden" name=".cgifields" value="403"  /><input type="hidden" name=".cgifields" 
+Action.c(79):     value="128"  /><input type="hidden" name=".cgifields" value="466"  /><input type="hidden" 
+Action.c(79):     name=".cgifields" value="252"  /><input type="hidden" name=".cgifields" value="28"  /><inp
+Action.c(79):     ut type="hidden" name=".cgifields" value="310"  /><input type="hidden" name=".cgifields" v
+Action.c(79):     alue="283"  /><input type="hidden" name=".cgifields" value="75"  /><input type="hidden" na
+Action.c(79):     me=".cgifields" value="40"  /><input type="hidden" name=".cgifields" value="134"  /><input
+Action.c(79):      type="hidden" name=".cgifields" value="156"  /><input type="hidden" name=".cgifields" val
+Action.c(79):     ue="303"  /><input type="hidden" name=".cgifields" value="192"  /><input type="hidden" nam
+Action.c(79):     e=".cgifields" value="250"  /><input type="hidden" name=".cgifields" value="421"  /><input
+Action.c(79):      type="hidden" name=".cgifields" value="59"  /><input type="hidden" name=".cgifields" valu
+Action.c(79):     e="215"  /><input type="hidden" name=".cgifields" value="450"  /><input type="hidden" name
+Action.c(79):     =".cgifields" value="278"  /><input type="hidden" name=".cgifields" value="490"  /><input 
+Action.c(79):     type="hidden" name=".cgifields" value="150"  /><input type="hidden" name=".cgifields" valu
+Action.c(79):     e="271"  /><input type="hidden" name=".cgifields" value="130"  /><input type="hidden" name
+Action.c(79):     =".cgifields" value="155"  /><input type="hidden" name=".cgifields" value="387"  /><input 
+Action.c(79):     type="hidden" name=".cgifields" value="53"  /><input type="hidden" name=".cgifields" value
+Action.c(79):     ="245"  /><input type="hidden" name=".cgifields" value="267"  /><input type="hidden" name=
+Action.c(79):     ".cgifields" value="491"  /><input type="hidden" name=".cgifields" value="354"  /><input t
+Action.c(79):     ype="hidden" name=".cgifields" value="461"  /><input type="hidden" name=".cgifields" value
+Action.c(79):     ="219"  /><input type="hidden" name=".cgifields" value="318"  /><input type="hidden" name=
+Action.c(79):     ".cgifields" value="13"  /><input type="hidden" name=".cgifields" value="257"  /><input ty
+Action.c(79):     pe="hidden" name=".cgifields" value="105"  /><input type="hidden" name=".cgifields" value=
+Action.c(79):     "473"  /><input type="hidden" name=".cgifields" value="85"  /><input type="hidden" name=".
+Action.c(79):     cgifields" value="3"  /><input type="hidden" name=".cgifields" value="185"  /><input type=
+Action.c(79):     "hidden" name=".cgifields" value="390"  /><input type="hidden" name=".cgifields" value="33
+Action.c(79):     2"  /><input type="hidden" name=".cgifields" value="248"  /><input type="hidden" name=".cg
+Action.c(79):     ifields" value="111"  /><input type="hidden" name=".cgifields" value="9"  /><input type="h
+Action.c(79):     idden" name=".cgifields" value="146"  /><input type="hidden" name=".cgifields" value="425"
+Action.c(79):       /><input type="hidden" name=".cgifields" value="408"  /><input type="hidden" name=".cgif
+Action.c(79):     ields" value="356"  /><input type="hidden" name=".cgifields" value="38"  /><input type="hi
+Action.c(79):     dden" name=".cgifields" value="4"  /><input type="hidden" name=".cgifields" value="34"  />
+Action.c(79):     <input type="hidden" name=".cgifields" value="164"  /><input type="hidden" name=".cgifield
+Action.c(79):     s" value="196"  /><input type="hidden" name=".cgifields" value="242"  /></div></form>\n
+Action.c(79):     \n
+Action.c(79):     </center>\n
+Action.c(79):     \n
+Action.c(79):     </body>\n
+Action.c(79):     </html>
+Action.c(79): t=263009ms: Request done "http://127.0.0.1:1080/cgi-bin/itinerary.pl"  	[MsgId: MMSG-26000]
+Action.c(79): t=263009ms: Already connected [0] to 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(79): t=263009ms: 462-byte request headers for "http://127.0.0.1:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=637)
+Action.c(79):     GET /WebTours/images/cancelreservation.gif HTTP/1.1\r\n
+Action.c(79):     Referer: http://127.0.0.1:1080/cgi-bin/itinerary.pl\r\n
+Action.c(79):     User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko\r
+Action.c(79):     \n
+Action.c(79):     Accept-Encoding: gzip, deflate\r\n
+Action.c(79):     Accept-Language: en-US,en;q=0.7,ru;q=0.3\r\n
+Action.c(79):     Accept: */*\r\n
+Action.c(79):     Connection: Keep-Alive\r\n
+Action.c(79):     Host: 127.0.0.1:1080\r\n
+Action.c(79):     Cookie: MSO=SID&1631481696; MTUserInfo=firstName&&address2&&username&jojo8&hash&88&lastNam
+Action.c(79):     e&%0A&address1&&creditCard&&expDate&%0A\r\n
+Action.c(79):     \r\n
+Action.c(79): t=263009ms: Already connected [1] to 127.0.0.1:1080  	[MsgId: MMSG-26000]
+Action.c(79): t=263009ms: 466-byte request headers for "http://127.0.0.1:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=638)
+Action.c(79):     GET /WebTours/images/cancelallreservations.gif HTTP/1.1\r\n
+Action.c(79):     Referer: http://127.0.0.1:1080/cgi-bin/itinerary.pl\r\n
+Action.c(79):     User-Agent: Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; Touch; rv:11.0) like Gecko\r
+Action.c(79):     \n
+Action.c(79):     Accept-Encoding: gzip, deflate\r\n
+Action.c(79):     Accept-Language: en-US,en;q=0.7,ru;q=0.3\r\n
+Action.c(79):     Accept: */*\r\n
+Action.c(79):     Connection: Keep-Alive\r\n
+Action.c(79):     Host: 127.0.0.1:1080\r\n
+Action.c(79):     Cookie: MSO=SID&1631481696; MTUserInfo=firstName&&address2&&username&jojo8&hash&88&lastNam
+Action.c(79):     e&%0A&address1&&creditCard&&expDate&%0A\r\n
+Action.c(79):     \r\n
+Action.c(79): t=263010ms: 297-byte response headers for "http://127.0.0.1:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=637)
+Action.c(79):     HTTP/1.1 200 OK\r\n
+Action.c(79):     Date: Sun, 12 Sep 2021 21:21:42 GMT\r\n
+Action.c(79):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(79):     Last-Modified: Thu, 12 Jan 2012 12:30:28 GMT\r\n
+Action.c(79):     ETag: "1000000043599-33f-4b653e9ce6100"\r\n
+Action.c(79):     Accept-Ranges: bytes\r\n
+Action.c(79):     Content-Length: 831\r\n
+Action.c(79):     Keep-Alive: timeout=5, max=93\r\n
+Action.c(79):     Connection: Keep-Alive\r\n
+Action.c(79):     Content-Type: image/gif\r\n
+Action.c(79):     \r\n
+Action.c(79): t=263010ms: 831-byte response body for "http://127.0.0.1:1080/WebTours/images/cancelreservation.gif" (RelFrameId=, Internal ID=637)
+Action.c(79): t=263010ms: Request done "http://127.0.0.1:1080/WebTours/images/cancelreservation.gif"  	[MsgId: MMSG-26000]
+Action.c(79): t=263010ms: 297-byte response headers for "http://127.0.0.1:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=638)
+Action.c(79):     HTTP/1.1 200 OK\r\n
+Action.c(79):     Date: Sun, 12 Sep 2021 21:21:42 GMT\r\n
+Action.c(79):     Server: Apache/2.2.21 (Win32)\r\n
+Action.c(79):     Last-Modified: Thu, 12 Jan 2012 12:30:28 GMT\r\n
+Action.c(79):     ETag: "1000000043592-2e6-4b653e9ce6100"\r\n
+Action.c(79):     Accept-Ranges: bytes\r\n
+Action.c(79):     Content-Length: 742\r\n
+Action.c(79):     Keep-Alive: timeout=5, max=95\r\n
+Action.c(79):     Connection: Keep-Alive\r\n
+Action.c(79):     Content-Type: image/gif\r\n
+Action.c(79):     \r\n
+Action.c(79): t=263010ms: 742-byte response body for "http://127.0.0.1:1080/WebTours/images/cancelallreservations.gif" (RelFrameId=, Internal ID=638)
+Action.c(79): t=263010ms: Request done "http://127.0.0.1:1080/WebTours/images/cancelallreservations.gif"  	[MsgId: MMSG-26000]
+Action.c(79): web_url("Itinerary Button") was successful, 623137 body bytes, 1913 header bytes, 1235 chunking overhead bytes  	[MsgId: MMSG-26385]
+Action.c(88): Notify: Transaction "Delete_Ticket_Button" ended with a "Pass" status (Duration: 1.2948 Wasted Time: 0.0011).	[MsgId: MMSG-16871]
+Action.c(91): Notify: Transaction "UC_1_6_Login_megatransaction" ended with a "Pass" status (Duration: 9.0248 Wasted Time: 0.0015).	[MsgId: MMSG-16871]
+Ending action Action.	[MsgId: MMSG-15918]
+Action was aborted.	[MsgId: MMSG-10694]
+Ending Vuser...	[MsgId: MMSG-15966]
+Starting action vuser_end.	[MsgId: MMSG-15919]
+Ending action vuser_end.	[MsgId: MMSG-15918]
+Vuser Terminated.	[MsgId: MMSG-15963]
+t=263010ms: Closed connection [0] to 127.0.0.1:1080 after completing 8 request(s)  	[MsgId: MMSG-26000]
+t=263011ms: Closed connection [1] to 127.0.0.1:1080 after completing 6 request(s)  	[MsgId: MMSG-26000]
+t=263013ms: Closed connection [2] to 127.0.0.1:1080 after completing 4 request(s)  	[MsgId: MMSG-26000]
+t=263069ms: Closed connection [3] to 127.0.0.1:1080 after completing 3 request(s)  	[MsgId: MMSG-26000]
+t=263081ms: Closed connection [4] to 127.0.0.1:1080 after completing 1 request(s)  	[MsgId: MMSG-26000]
+HTML-Mode memory management statistics: Reusable=126, NonReusable=0, CsMemBlockSize=4096, checks disabled  	[MsgId: MMSG-26000]
+Vuser 2 (thread 6988), ended OK."	[MsgId: MMSG-10695]
