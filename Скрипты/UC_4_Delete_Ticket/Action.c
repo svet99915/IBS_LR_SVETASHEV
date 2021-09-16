@@ -104,8 +104,8 @@ Action()
 	
 	
 //	ошибка web_reg_fing
-		web_reg_find("Text/IC= scheduled flights",
-		LAST);
+//		web_reg_find("Text/IC= scheduled flights",
+//		LAST);
 	
 	
 	

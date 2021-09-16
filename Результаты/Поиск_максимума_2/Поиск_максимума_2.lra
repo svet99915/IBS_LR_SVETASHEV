@@ -40,7 +40,7 @@ FEndTime=0
 LRRID=
 ResultPath=c:\Users\evgenijsvetasev\AppData\Local\Temp\res1\res1.lrr
 ResultTDPath=
-NumFilters=0
+NumFilters=1
 ScenarioTimeZone=-10800
 DaylightSavingSecsAddition=0
 ScenarioStartTime=1631425121
@@ -59,7 +59,18 @@ Schedule Name=Schedule 1
 Mode=Scenario Scheduling
 Load Behavior=Initialize each Vuser just before it runs
 Scenario Duration=Start 10 Vusers: 1 every 00:00:05 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:05 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:05 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:05 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Start 10 Vusers: 1 every 00:00:05 (HH:MM:SS); Run for 00:22:00 (HH:MM:SS); Stop all Vusers: 1 every 00:00:02 (HH:MM:SS)
-NumGraphs=5
+NumGraphs=9
+
+[Result0_GLOBALFILTER0]
+DimensionType=Continuous
+InternalDimName=End Time
+Dimension=Scenario Elapsed Time
+EqualFlag=1
+DimensionTableName=Event_meter
+NumValues=1
+DimCount=2
+Dim_0=1260.000000
+Dim_1=2460.000000
 
 [DimensionFunctions]
 DimeFuncCount=1
